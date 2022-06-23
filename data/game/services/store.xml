@@ -1,0 +1,366 @@
+<record>
+	<list id="items">
+        <!-- ########################################################## -->
+        <!-- Product's value needs to match in-code defined value       -->        
+        <!-- Consumable and category need to match SEGA backend values  -->
+        <!-- Mappings are different for each store                      -->
+        <!-- ########################################################## -->
+		<record>
+			<!-- UNLOCKABLE_ID_NO_LOAN_RESTRICTIONS -->
+			<string id="product" value="1"/>
+            <string id="consumable" value="false"/>
+            <string id="category" value="3"/>
+			<record id="mappings">
+				<string id="google_play" value="21_no_loan_restrictions"/>
+				<string id="game_center" value="21_no_loan_restrictions"/>
+				<string id="xbox_edition" value="21_no_loan_restrictions"/>
+				<string id="gamepass" value="21_no_loan_restrictions"/>
+			</record>
+		</record>
+		<record>
+			<!-- UNLOCKABLE_ID_NO_TRANSFER_WINDOWS -->
+			<string id="product" value="2"/>
+            <string id="consumable" value="false"/>
+            <string id="category" value="3"/>
+			<record id="mappings">
+				<string id="google_play" value="21_no_transfer_windows"/>
+				<string id="game_center" value="21_no_transfer_windows"/>
+				<string id="xbox_edition" value="21_no_transfer_windows"/>
+				<string id="gamepass" value="21_no_transfer_windows"/>
+			</record>
+		</record>
+		<record>
+			<!-- UNLOCKABLE_ID_NO_SACKING -->
+			<string id="product" value="3"/>
+            <string id="consumable" value="false"/>
+            <string id="category" value="3"/>
+			<record id="mappings">
+				<string id="google_play" value="21_no_sacking"/>
+				<string id="game_center" value="21_no_sacking"/>
+				<string id="xbox_edition" value="21_no_sacking"/>
+				<string id="gamepass" value="21_no_sacking"/>
+			</record>
+		</record>
+		<record>
+			<!-- UNLOCKABLE_ID_NATIONAL_MANAGEMENT -->
+			<string id="product" value="4"/>
+            <string id="consumable" value="false"/>
+            <string id="category" value="3"/>
+			<record id="mappings">
+				<string id="google_play" value="21_national_management"/>
+				<string id="game_center" value="21_national_management"/>
+				<string id="xbox_edition" value="21_national_management"/>
+				<string id="gamepass" value="21_national_management"/>
+			</record>
+		</record>
+		<record>
+			<!-- UNLOCKABLE_ID_BOARD_OVERRIDE -->
+			<string id="product" value="5"/>
+            <string id="consumable" value="true"/>
+            <string id="category" value="3"/>
+			<record id="mappings">
+				<string id="google_play" value="21_boardoverride"/>
+				<string id="game_center" value="21_boardoverride"/>
+				<string id="xbox_edition" value="21_boardoverride"/>
+				<string id="gamepass" value="21_boardoverride"/>
+			</record>
+		</record>
+		<record>
+			<!-- UNLOCKABLE_ID_NO_WORK_PERMITS -->
+			<string id="product" value="6"/>
+            <string id="consumable" value="false"/>
+            <string id="category" value="3"/>
+			<record id="mappings">
+				<string id="google_play" value="21_no_work_permits"/>
+				<string id="game_center" value="21_no_work_permits"/>
+				<string id="xbox_edition" value="21_no_work_permits"/>
+				<string id="gamepass" value="21_no_work_permits"/>
+			</record>
+		</record>
+		<record>
+			<!-- UNLOCKABLE_ID_SON_GENERATED -->
+			<string id="product" value="7"/>
+            <string id="consumable" value="false"/>
+            <string id="category" value="3"/>
+			<record id="mappings">
+				<string id="google_play" value="21_son_generated"/>
+				<string id="game_center" value="21_son_generated"/>
+				<string id="xbox_edition" value="21_son_generated"/>
+				<string id="gamepass" value="21_son_generated"/>
+			</record>
+		</record>
+		<record>
+			<!-- UNLOCKABLE_ID_ALL_PLAYERS_INTERESTED -->
+			<string id="product" value="8"/>
+            <string id="consumable" value="false"/>
+            <string id="category" value="3"/>
+			<record id="mappings">
+				<string id="google_play" value="21_all_players_interested"/>
+				<string id="game_center" value="21_all_players_interested"/>
+				<string id="xbox_edition" value="21_all_players_interested"/>
+				<string id="gamepass" value="21_all_players_interested"/>
+			</record>
+		</record>
+		<record>
+			<!-- UNLOCKABLE_ID_NO_FOREIGN_RESTRICTIONS -->
+			<string id="product" value="9"/>
+            <string id="consumable" value="false"/>
+            <string id="category" value="3"/>
+			<record id="mappings">
+				<string id="google_play" value="21_no_foreign_restrictions"/>
+				<string id="game_center" value="21_no_foreign_restrictions"/>
+				<string id="xbox_edition" value="21_no_foreign_restrictions"/>
+				<string id="gamepass" value="21_no_foreign_restrictions"/>
+			</record>
+		</record>
+		<record>
+			<!-- UNLOCKABLE_ID_UNLIMITED_SCOUTING -->
+			<string id="product" value="10"/>
+            <string id="consumable" value="false"/>
+            <string id="category" value="3"/>
+			<record id="mappings">
+				<string id="google_play" value="21_unlimited_scouting"/>
+				<string id="game_center" value="21_unlimited_scouting"/>
+				<string id="xbox_edition" value="21_unlimited_scouting"/>
+				<string id="gamepass" value="21_unlimited_scouting"/>
+			</record>
+		</record>
+		<record>
+			<!-- UNLOCKABLE_ID_NEW_STADIA -->
+			<string id="product" value="11"/>
+            <string id="consumable" value="true"/>
+            <string id="category" value="3"/>
+			<record id="mappings">
+				<string id="google_play" value="21_new_stadia"/>
+				<string id="game_center" value="21_new_stadia"/>
+				<string id="xbox_edition" value="21_new_stadia"/>
+				<string id="gamepass" value="21_new_stadia"/>
+			</record>
+		</record>
+		<record>
+			<!-- UNLOCKABLE_ID_ENABLE_FOG_OF_WAR -->
+			<string id="product" value="12"/>
+            <string id="consumable" value="false"/>
+            <string id="category" value="3"/>
+			<record id="mappings">
+				<string id="google_play" value="21_enable_fog_of_war"/>
+				<string id="game_center" value="21_enable_fog_of_war"/>
+				<string id="xbox_edition" value="21_enable_fog_of_war"/>
+				<string id="gamepass" value="21_enable_fog_of_war"/>
+			</record>
+		</record>
+		<record>
+			<!-- UNLOCKABLE_ID_BOOST_BANK_BALANCE -->
+			<string id="product" value="13"/>
+            <string id="consumable" value="true"/>
+            <string id="category" value="1"/>
+			<record id="mappings">
+				<string id="google_play" value="21_boost_bank_balance_10m"/>
+				<string id="game_center" value="21_boost_bank_balance_10m"/>
+				<string id="xbox_edition" value="21_boost_bank_balance_10000000"/>
+				<string id="gamepass" value="21_boost_bank_balance_10000000"/>
+			</record>
+		</record>
+		<record>
+			<!-- UNLOCKABLE_ID_BOOST_BANK_BALANCE -->
+			<string id="product" value="14"/>
+            <string id="consumable" value="true"/>
+            <string id="category" value="1"/>
+			<record id="mappings">
+				<string id="google_play" value="21_boost_bank_balance_50m"/>
+				<string id="game_center" value="21_boost_bank_balance_50m"/>
+				<string id="xbox_edition" value="21_boost_bank_balance_50000000"/>
+				<string id="gamepass" value="21_boost_bank_balance_50000000"/>
+			</record>
+		</record>
+		<record>
+			<!-- UNLOCKABLE_ID_BOOST_BANK_BALANCE -->
+			<string id="product" value="15"/>
+            <string id="consumable" value="true"/>
+            <string id="category" value="1"/>
+			<record id="mappings">
+				<string id="google_play" value="21_boost_bank_balance_100m"/>
+				<string id="game_center" value="21_boost_bank_balance_100m"/>
+				<string id="xbox_edition" value="21_boost_bank_balance_100000000"/>
+				<string id="gamepass" value="21_boost_bank_balance_100000000"/>
+			</record>
+		</record>
+		<record>
+			<!-- UNLOCKABLE_ID_BOOST_BANK_BALANCE -->
+			<string id="product" value="16"/>
+            <string id="consumable" value="true"/>
+            <string id="category" value="1"/>
+			<record id="mappings">
+				<string id="google_play" value="21_boost_bank_balance_200m"/>
+				<string id="game_center" value="21_boost_bank_balance_200m"/>
+				<string id="xbox_edition" value="21_boost_bank_balance_200000000"/>
+				<string id="gamepass" value="21_boost_bank_balance_200000000"/>
+			</record>
+		</record>
+        <!-- ########## -->
+        <!-- Since FM14 -->
+        <!-- ########## -->
+		<record>
+			<!-- UNLOCKABLE_ID_IN_GAME_EDITOR -->
+			<string id="product" value="17"/>
+            <string id="consumable" value="false"/>
+            <string id="category" value="2"/>
+			<record id="mappings">
+				<string id="gamepass" value="21_in_game_editor"/>
+			</record>
+		</record>
+		<record>
+			<!-- UNLOCKABLE_ID_BOOST_TEAM_MORALE -->
+			<string id="product" value="18"/>
+            <string id="consumable" value="true"/>
+            <string id="category" value="3"/>
+			<record id="mappings">
+				<string id="google_play" value="21_boost_team_morale"/>
+				<string id="game_center" value="21_boost_team_morale"/>
+				<string id="xbox_edition" value="21_boost_team_morale"/>
+				<string id="gamepass" value="21_boost_team_morale"/>
+			</record>
+		</record>
+		<record>
+			<!-- UNLOCKABLE_ID_TREAT_INJURED_PLAYER -->
+			<string id="product" value="19"/>
+            <string id="consumable" value="true"/>
+            <string id="category" value="3"/>
+			<record id="mappings">
+				<string id="google_play" value="21_treat_injured_player"/>
+				<string id="game_center" value="21_treat_injured_player"/>
+				<string id="xbox_edition" value="21_treat_injured_player"/>
+				<string id="gamepass" value="21_treat_injured_player"/>
+			</record>
+		</record>
+		<record>
+			<!-- UNLOCKABLE_ID_POISON_OPPONENTS -->
+			<string id="product" value="20"/>
+            <string id="consumable" value="true"/>
+            <string id="category" value="3"/>
+			<record id="mappings">
+				<string id="google_play" value="21_poison_opponents"/>
+				<string id="game_center" value="21_poison_opponents"/>
+				<string id="xbox_edition" value="21_poison_opponents"/>
+				<string id="gamepass" value="21_poison_opponents"/>
+			</record>
+		</record>
+		<record>
+			<!-- UNLOCKABLE_ID_LIFETIME_PLAYER_CONTRACT -->
+			<string id="product" value="21"/>
+            <string id="consumable" value="true"/>
+            <string id="category" value="3"/>
+			<record id="mappings">
+				<string id="google_play" value="21_lifetime_player_contract"/>
+				<string id="game_center" value="21_lifetime_player_contract"/>
+				<string id="xbox_edition" value="21_lifetime_player_contract"/>
+				<string id="gamepass" value="21_lifetime_player_contract"/>
+			</record>
+		</record>
+        <!-- ########## -->
+        <!-- Since FM15 -->
+        <!-- ########## -->
+		<record>
+			<!-- UNLOCKABLE_ID_UNSUSPEND_PLAYER -->
+			<string id="product" value="22"/>
+            <string id="consumable" value="true"/>
+            <string id="category" value="3"/>
+			<record id="mappings">
+				<string id="google_play" value="21_unsuspend_player"/>
+				<string id="game_center" value="21_unsuspend_player"/>
+				<string id="xbox_edition" value="21_unsuspend_player"/>
+				<string id="gamepass" value="21_unsuspend_player"/>
+			</record>
+		</record>
+        <!-- ########## -->
+        <!-- Since FM16 -->
+        <!-- ########## -->
+		<record>
+			<!-- UNLOCKABLE_ID_ALL_JOBS_ARE_MINE -->
+			<string id="product" value="23"/>
+            <string id="consumable" value="false"/>
+            <string id="category" value="3"/>
+			<record id="mappings">
+				<string id="google_play" value="21_all_job_applications"/>
+				<string id="game_center" value="21_all_job_applications"/>
+				<string id="xbox_edition" value="21_all_job_applications"/>
+				<string id="gamepass" value="21_all_job_applications"/>
+			</record>
+		</record>
+		<record>
+			<!-- UNLOCKABLE_ID_DESIGN_A_SON -->
+			<string id="product" value="24"/>
+            <string id="consumable" value="false"/>
+            <string id="category" value="3"/>
+			<record id="mappings">
+				<string id="google_play" value="21_design_a_son"/>
+				<string id="game_center" value="21_design_a_son"/>
+				<string id="xbox_edition" value="21_design_a_son"/>
+				<string id="gamepass" value="21_design_a_son"/>
+			</record>
+		</record>
+        <!-- ########## -->
+        <!-- Since FM17 -->
+        <!-- ########## -->
+		<record>
+			<!-- UNLOCKABLE_ID_START_FROM_THE_BOTTOM -->
+			<string id="product" value="25"/>
+            <string id="consumable" value="false"/>
+            <string id="category" value="4"/>
+			<record id="mappings">
+				<string id="google_play" value="21_bottom_division_favourites_challenge"/>
+				<string id="game_center" value="21_bottom_division_favourites_challenge"/>
+				<string id="xbox_edition" value="21_bottom_division_favourites_challenge"/>
+				<string id="gamepass" value="21_bottom_division_favourites_challenge"/>
+			</record>
+		</record>
+		<record>
+			<!-- UNLOCKABLE_ID_ADMIN_DISASTER -->
+			<string id="product" value="26"/>
+            <string id="consumable" value="false"/>
+            <string id="category" value="4"/>
+			<record id="mappings">
+				<string id="google_play" value="21_rise_from_the_ashes_challenge"/>
+				<string id="game_center" value="21_rise_from_the_ashes_challenge"/>
+				<string id="xbox_edition" value="21_rise_from_the_ashes_challenge"/>
+				<string id="gamepass" value="21_rise_from_the_ashes_challenge"/>
+			</record>
+		</record>
+		<record>
+			<!-- UNLOCKABLE_ID_FIXTURE_PILE_UP -->
+			<string id="product" value="27"/>
+            <string id="consumable" value="false"/>
+            <string id="category" value="4"/>
+			<record id="mappings">
+				<string id="google_play" value="21_fixture_pile_up_challenge"/>
+				<string id="game_center" value="21_fixture_pile_up_challenge"/>
+				<string id="xbox_edition" value="21_fixture_pile_up_challenge"/>
+				<string id="gamepass" value="21_fixture_pile_up_challenge"/>
+			</record>
+		</record>
+		<record>
+			<!-- UNLOCKABLE_ID_GOLDEN_GENERATION -->
+			<string id="product" value="28"/>
+            <string id="consumable" value="false"/>
+            <string id="category" value="3"/>
+			<record id="mappings">
+				<string id="google_play" value="21_golden_generation"/>
+				<string id="game_center" value="21_golden_generation"/>
+				<string id="xbox_edition" value="21_golden_generation"/>
+				<string id="gamepass" value="21_golden_generation"/>
+			</record>
+		</record>
+		<record>
+			<!-- UNLOCKABLE_ID_DREAM_TRANSFER -->
+			<string id="product" value="29"/>
+            <string id="consumable" value="true"/>
+            <string id="category" value="3"/>
+			<record id="mappings">
+				<string id="google_play" value="21_dream_transfer"/>
+				<string id="game_center" value="21_dream_transfer"/>
+				<string id="xbox_edition" value="21_dream_transfer"/>
+				<string id="gamepass" value="21_dream_transfer"/>
+			</record>
+		</record>
+    </list>
+</record>

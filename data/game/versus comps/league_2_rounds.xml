@@ -1,0 +1,515 @@
+<record>
+	<list id="files">
+		<record>
+			<string id="file_type" value="versus" />
+			<integer id="version" value="1" />
+			<integer id="minimum_number_teams" value="2" />
+			<integer id="maximum_number_teams" value="20" />
+		</record>
+		<record>
+			<integer id="version" value="1" />
+			<string id="file_type" value="comp" />
+			<integer id="competition" value="100000023" />
+			<string id="level" value="0" />
+			<string id="year" value="2000" />
+			<string id="year_interval" value="1" />
+			<string id="base_year" value="2000" />
+			<string id="discipline_index" value="0" />
+			<string id="fixture_rules_index" value="-1" />
+			<record id="date_range">
+				<integer id="id" value="1685353070" />
+				<string id="start_month" value="jul" />
+				<string id="start_year_offset" value="0" />
+				<string id="end_month" value="may" />
+				<integer id="end_year_offset" value="1" />
+			</record>
+			<string id="type" value="cup" />
+			<list id="teams">
+				<record>
+					<string id="id" value="get_registered_teams" />
+				</record>
+			</list>
+			<list id="fixture_dates" />
+			<list id="stages">
+				<record>
+					<string id="index" value="0" />
+					<integer id="id" value="0" />
+					<list id="teams">
+						<record>
+							<string id="id" value="get_lowest_seeded_qualified_teams" />
+							<integer id="maximum_number_teams" value="20" />
+						</record>
+					</list>
+					<string id="type" value="league" />
+					<string id="number_rounds" value="2" />
+					<string id="subs_rules" value="three_from_seven" />
+					<string id="match_rules" value="" />
+					<boolean id="top_team_are_champions" value="true" />
+					<string id="fixture_order" value="random" />
+					<string id="number_end_dates_with_no_tv_games" value="1" />
+					<boolean id="process_early_finish" value="false" />
+					<list id="schedule">
+						<record>
+							<list id="match_days">
+								<record>
+									<string id="day_of_week" value="sat" />
+									<string id="time" value="1500" />
+								</record>
+							</list>
+							<list id="dates">
+								<record>
+									<string id="day_of_week" value="sat" />
+									<string id="day_of_month" value="5" />
+									<string id="month" value="aug" />
+									<string id="year" value="2000" />
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="stadium_rules" value="home" />
+									<integer id="removed_date_priority" value="38" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="day_of_week" value="sat" />
+									<string id="day_of_month" value="12" />
+									<string id="month" value="aug" />
+									<string id="year" value="2000" />
+									<string id="stadium_rules" value="home" />
+									<integer id="removed_date_priority" value="37" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="day_of_week" value="sat" />
+									<string id="day_of_month" value="19" />
+									<string id="month" value="aug" />
+									<string id="year" value="2000" />
+									<string id="stadium_rules" value="home" />
+									<integer id="removed_date_priority" value="36" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="day_of_week" value="sat" />
+									<string id="day_of_month" value="26" />
+									<string id="month" value="aug" />
+									<string id="year" value="2000" />
+									<string id="stadium_rules" value="home" />
+									<integer id="removed_date_priority" value="35" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="day_of_week" value="sat" />
+									<string id="day_of_month" value="2" />
+									<string id="month" value="sep" />
+									<string id="year" value="2000" />
+									<string id="stadium_rules" value="home" />
+									<integer id="removed_date_priority" value="34" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="day_of_week" value="sat" />
+									<string id="day_of_month" value="9" />
+									<string id="month" value="sep" />
+									<string id="year" value="2000" />
+									<string id="stadium_rules" value="home" />
+									<integer id="removed_date_priority" value="33" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="day_of_week" value="sat" />
+									<string id="day_of_month" value="16" />
+									<string id="month" value="sep" />
+									<string id="year" value="2000" />
+									<string id="stadium_rules" value="home" />
+									<integer id="removed_date_priority" value="32" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="day_of_week" value="sat" />
+									<string id="day_of_month" value="23" />
+									<string id="month" value="sep" />
+									<string id="year" value="2000" />
+									<string id="stadium_rules" value="home" />
+									<integer id="removed_date_priority" value="31" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="day_of_week" value="sat" />
+									<string id="day_of_month" value="30" />
+									<string id="month" value="sep" />
+									<string id="year" value="2000" />
+									<string id="stadium_rules" value="home" />
+									<integer id="removed_date_priority" value="30" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="day_of_week" value="sat" />
+									<string id="day_of_month" value="7" />
+									<string id="month" value="oct" />
+									<string id="year" value="2000" />
+									<string id="stadium_rules" value="home" />
+									<integer id="removed_date_priority" value="29" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="day_of_week" value="sat" />
+									<string id="day_of_month" value="14" />
+									<string id="month" value="oct" />
+									<string id="year" value="2000" />
+									<string id="stadium_rules" value="home" />
+									<integer id="removed_date_priority" value="28" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="day_of_week" value="sat" />
+									<string id="day_of_month" value="21" />
+									<string id="month" value="oct" />
+									<string id="year" value="2000" />
+									<string id="stadium_rules" value="home" />
+									<integer id="removed_date_priority" value="27" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="day_of_week" value="sat" />
+									<string id="day_of_month" value="28" />
+									<string id="month" value="oct" />
+									<string id="year" value="2000" />
+									<string id="stadium_rules" value="home" />
+									<integer id="removed_date_priority" value="26" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="day_of_week" value="sat" />
+									<string id="day_of_month" value="4" />
+									<string id="month" value="nov" />
+									<string id="year" value="2000" />
+									<string id="stadium_rules" value="home" />
+									<integer id="removed_date_priority" value="25" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="stadium_rules" value="home" />
+									<string id="day_of_week" value="sat" />
+									<integer id="day_of_month" value="11" />
+									<string id="month" value="nov" />
+									<unsigned id="year" value="2000" />
+									<integer id="removed_date_priority" value="24" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="stadium_rules" value="home" />
+									<string id="day_of_week" value="sat" />
+									<integer id="day_of_month" value="18" />
+									<string id="month" value="nov" />
+									<unsigned id="year" value="2000" />
+									<integer id="removed_date_priority" value="23" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="stadium_rules" value="home" />
+									<string id="day_of_week" value="sat" />
+									<integer id="day_of_month" value="25" />
+									<string id="month" value="nov" />
+									<unsigned id="year" value="2000" />
+									<integer id="removed_date_priority" value="22" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="stadium_rules" value="home" />
+									<string id="day_of_week" value="sat" />
+									<integer id="day_of_month" value="2" />
+									<string id="month" value="dec" />
+									<unsigned id="year" value="2000" />
+									<integer id="removed_date_priority" value="21" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="stadium_rules" value="home" />
+									<string id="day_of_week" value="sat" />
+									<integer id="day_of_month" value="9" />
+									<string id="month" value="dec" />
+									<unsigned id="year" value="2000" />
+									<integer id="removed_date_priority" value="20" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="stadium_rules" value="home" />
+									<string id="day_of_week" value="sat" />
+									<integer id="day_of_month" value="16" />
+									<string id="month" value="dec" />
+									<unsigned id="year" value="2000" />
+									<integer id="removed_date_priority" value="19" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="stadium_rules" value="home" />
+									<string id="day_of_week" value="sat" />
+									<integer id="day_of_month" value="23" />
+									<string id="month" value="dec" />
+									<unsigned id="year" value="2000" />
+									<integer id="removed_date_priority" value="18" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="stadium_rules" value="home" />
+									<string id="day_of_week" value="sat" />
+									<integer id="day_of_month" value="30" />
+									<string id="month" value="dec" />
+									<unsigned id="year" value="2000" />
+									<integer id="removed_date_priority" value="17" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="stadium_rules" value="home" />
+									<string id="day_of_week" value="sat" />
+									<integer id="day_of_month" value="6" />
+									<string id="month" value="jan" />
+									<unsigned id="year" value="2001" />
+									<integer id="removed_date_priority" value="16" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="stadium_rules" value="home" />
+									<string id="day_of_week" value="sat" />
+									<integer id="day_of_month" value="13" />
+									<string id="month" value="jan" />
+									<unsigned id="year" value="2001" />
+									<integer id="removed_date_priority" value="15" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="stadium_rules" value="home" />
+									<string id="day_of_week" value="sat" />
+									<integer id="day_of_month" value="20" />
+									<string id="month" value="jan" />
+									<unsigned id="year" value="2001" />
+									<integer id="removed_date_priority" value="14" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="stadium_rules" value="home" />
+									<string id="day_of_week" value="sat" />
+									<integer id="day_of_month" value="27" />
+									<string id="month" value="jan" />
+									<unsigned id="year" value="2001" />
+									<integer id="removed_date_priority" value="13" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="stadium_rules" value="home" />
+									<string id="day_of_week" value="sat" />
+									<integer id="day_of_month" value="3" />
+									<string id="month" value="feb" />
+									<unsigned id="year" value="2001" />
+									<integer id="removed_date_priority" value="12" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="stadium_rules" value="home" />
+									<string id="day_of_week" value="sat" />
+									<integer id="day_of_month" value="10" />
+									<string id="month" value="feb" />
+									<unsigned id="year" value="2001" />
+									<integer id="removed_date_priority" value="11" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="stadium_rules" value="home" />
+									<string id="day_of_week" value="sat" />
+									<integer id="day_of_month" value="17" />
+									<string id="month" value="feb" />
+									<unsigned id="year" value="2001" />
+									<integer id="removed_date_priority" value="10" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="stadium_rules" value="home" />
+									<string id="day_of_week" value="sat" />
+									<integer id="day_of_month" value="24" />
+									<string id="month" value="feb" />
+									<unsigned id="year" value="2001" />
+									<integer id="removed_date_priority" value="9" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="stadium_rules" value="home" />
+									<string id="day_of_week" value="sat" />
+									<integer id="day_of_month" value="3" />
+									<string id="month" value="mar" />
+									<unsigned id="year" value="2001" />
+									<integer id="removed_date_priority" value="8" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="stadium_rules" value="home" />
+									<string id="day_of_week" value="sat" />
+									<integer id="day_of_month" value="10" />
+									<string id="month" value="mar" />
+									<unsigned id="year" value="2001" />
+									<integer id="removed_date_priority" value="7" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="stadium_rules" value="home" />
+									<string id="day_of_week" value="sat" />
+									<integer id="day_of_month" value="17" />
+									<string id="month" value="mar" />
+									<unsigned id="year" value="2001" />
+									<integer id="removed_date_priority" value="6" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="stadium_rules" value="home" />
+									<string id="day_of_week" value="sat" />
+									<integer id="day_of_month" value="24" />
+									<string id="month" value="mar" />
+									<unsigned id="year" value="2001" />
+									<integer id="removed_date_priority" value="5" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="stadium_rules" value="home" />
+									<string id="day_of_week" value="sat" />
+									<integer id="day_of_month" value="31" />
+									<string id="month" value="mar" />
+									<unsigned id="year" value="2001" />
+									<integer id="removed_date_priority" value="4" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="stadium_rules" value="home" />
+									<string id="day_of_week" value="sat" />
+									<integer id="day_of_month" value="7" />
+									<string id="month" value="apr" />
+									<unsigned id="year" value="2001" />
+									<integer id="removed_date_priority" value="3" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="stadium_rules" value="home" />
+									<string id="day_of_week" value="sat" />
+									<integer id="day_of_month" value="14" />
+									<string id="month" value="apr" />
+									<unsigned id="year" value="2001" />
+									<integer id="removed_date_priority" value="2" />
+								</record>
+								<record>
+									<boolean id="remove_if_not_needed" value="true" />
+									<string id="time" value="1500" />
+									<string id="stadium_rules" value="home" />
+									<string id="day_of_week" value="sat" />
+									<integer id="day_of_month" value="21" />
+									<string id="month" value="apr" />
+									<unsigned id="year" value="2001" />
+									<integer id="removed_date_priority" value="1" />
+								</record>
+							</list>
+							<list id="break_periods" />
+							<list id="offset_dates" />
+							<list id="tv_dates" />
+							<list id="special_tv_dates" />
+						</record>
+					</list>
+					<list id="requirements" />
+					<list id="add_virtual_stage" />
+					<string id="priority" value="league_high" />
+					<list id="ranking_levels" />
+					<record id="position_playoff">
+						<integer id="id" value="1886613612" />
+						<boolean id="check_championship" value="true" />
+						<boolean id="check_promotion" value="false" />
+						<boolean id="check_cont_cup" value="false" />
+						<boolean id="check_relegation" value="false" />
+						<string id="playoff_flags" value="" />
+						<string id="number_legs" value="1" />
+						<string id="match_rules" value="extra_time, pen" />
+						<integer id="sort_rules_to_check" value="2" />
+						<string id="stadium_rules" value="home" />
+					</record>
+					<integer id="minimum_number_teams" value="2" />
+					<integer id="maximum_number_teams" value="20" />
+					<list id="sort_rules">
+						<string value="goal_difference" />
+						<string value="goals_for" />
+					</list>
+					<boolean id="allow_opt_out" value="false" />
+				</record>
+			</list>
+			<list id="ranking_level_info" />
+			<boolean id="comp_inactive" value="false" />
+			<string id="actual_comp_flags" value="" />
+			<list id="comp_dependencies" />
+			<list id="nation_list" />
+			<list id="fixture_stadiums" />
+			<list id="registered_teams" />
+			<list id="virtual_stage_dependency" />
+			<list id="initial_tv_money" />
+			<list id="final_rankings" />
+			<list id="league_team_order" />
+			<list id="league_fixtures" />
+			<list id="alternative_dates" />
+			<list id="points_deductions" />
+			<list id="valid_years">
+				<record>
+					<string id="minimum_number_teams" value="2" />
+					<string id="maximum_number_teams" value="20" />
+				</record>
+			</list>
+			<boolean id="is_league_fixtures" value="false" />
+			<list id="match_tv_money" />
+			<integer id="index_1" value="0" />
+			<list id="fate_actions" />
+			<integer id="maximum_number_teams" value="20" />
+			<integer id="minimum_number_teams" value="2" />
+		</record>
+	</list>
+	<translation id="description" translation_id="458482" type="use" value="2-20 teams, playing each other 2-5 times[COMMENT - versus competitition type]" />
+	<translation id="author" translation_id="341386" type="use" value="League[COMMENT - versus competitition type]" />
+	<string id="icon" value="icons/custom/draft competitions/league" />
+	<string id="secondary_icon" value="icons/custom/draft competitions/small/league" />
+	<integer id="sort_order" value="2" />
+	<list id="db_changes" />
+	<integer id="version" value="2455" />
+	<boolean id="verf" value="false" />
+	<string id="EDvb" value="1" />
+	<string id="EDfb" value="" />
+	<null id="international_rule_group" />
+	<null id="versus_rules" />
+	<boolean id="beta" value="false" />
+	<string id="orvs" value="1800" />
+	<string id="svvs" value="1800" />
+</record>

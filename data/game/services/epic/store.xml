@@ -1,0 +1,15 @@
+﻿<record>
+	<list id="items">
+		<!-- ########################################################## -->
+		<!-- Offer id and item ids need to match the Epic backend       -->
+		<!-- unlockable id & category are how it is represented in code	-->
+		<!-- ########################################################## -->
+		<record>
+			<!-- UNLOCKABLE_ID_INGAME_EDITOR -->
+			<string id="unlockable" value="17"/>
+			<string id="offer_id" value="4bfb5b45b9c1442f90acbb0ada4e4c09"/>
+			<string id="item_id" value="0b40b612756348dab7a617186d71b5c3"/>
+			<string id="item_category" value="editor"/>
+		</record>
+	</list>
+</record>

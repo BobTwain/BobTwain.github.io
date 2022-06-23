@@ -1,0 +1,16 @@
+﻿<!--
+	The name of this file must be the same name as the folder containing the database.
+	This may or may not be the same as the actual name of the database.
+--><properties version="1.0">
+	
+	<string id="name" value="Football Manager 2021" />
+	<translation id="description" translation_id="411752" type="use" value="Default database[COMMENT: default database description]" />
+	<string id="author" value="Sports Interactive" />
+	<boolean id="fmc" value="false" />
+	<boolean id="fmm" value="false" />
+	<boolean id="beta" value="true" />
+	<string id="version" value="21.0.0" translate="false" />
+	<!-- the main version (first number) is the main game series it's designed for, 7 is FM07, the minor and patch versions can be used to restrict databases to a certain minor/patch release -->
+	<string id="required_version" value="21.0.0" translate="false" />
+
+</properties>

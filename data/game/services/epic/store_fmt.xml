@@ -1,0 +1,204 @@
+﻿<record>
+	<list id="items">
+		<!-- ########################################################## -->
+		<!-- Offer id and item ids need to match the Epic backend       -->
+		<!-- unlockable id & category are how it is represented in code	-->
+		<!-- ########################################################## -->
+		<record>
+			<string id="name" value="item_no_loan_restrictions"/>
+			<string id="offer_id" value="0555c3039f1b48238028d8c2a3fd2583"/>
+			<string id="unlockable" value="1"/>
+			<string id="item_id" value="4199975778da43538fefce21a2413373"/>
+			<string id="item_category" value="unlockables"/>
+		</record>
+		<record>
+			<string id="name" value="item_no_transfer_windows"/>
+			<string id="offer_id" value="4e471e36a6564853b5120adbf3be13b9"/>
+			<string id="unlockable" value="2"/>
+			<string id="item_id" value="0c33172f3072443896f82ad797045fae"/>
+			<string id="item_category" value="unlockables"/>
+		</record>
+		<record>
+			<string id="name" value="item_no_sacking"/>
+			<string id="offer_id" value="7a960800292645d5903d60e9fa36bbae"/>
+			<string id="unlockable" value="3"/>
+			<string id="item_id" value="eac9ec0e70cb41b2a7b101f21e266d84"/>
+			<string id="item_category" value="unlockables"/>
+		</record>
+		<record>
+			<string id="name" value="item_no_national_management"/>
+			<string id="offer_id" value="e5d820cfb5cd411fb400d575f91414e5"/>
+			<string id="unlockable" value="4"/>
+			<string id="item_id" value="9bb382c0baff41e6aebb5cf95d9c444c"/>
+			<string id="item_category" value="unlockables"/>
+		</record>
+		<record>
+			<string id="name" value="item_board_override"/>
+			<string id="offer_id" value="8897324774d64d97bf5ed61358ac39a7"/>
+			<string id="unlockable" value="5"/>
+			<string id="item_id" value="0fc7eea97c09420cbd798463cde250bb"/>
+			<string id="item_category" value="unlockables"/>
+		</record>
+		<record>
+			<string id="name" value="item_no_work_permits"/>
+			<string id="offer_id" value="8593d4e78b884c20bdcea1024aff09f1"/>
+			<string id="unlockable" value="6"/>
+			<string id="item_id" value="a949eb477a1543839b20ddb95fbe6383"/>
+			<string id="item_category" value="unlockables"/>
+		</record>
+		<record>
+			<string id="name" value="item_son_generated"/>
+			<string id="offer_id" value="087f9d5d495c4f91983e7886396a2ca5"/>
+			<string id="unlockable" value="7"/>
+			<string id="item_id" value="a1e511ba9aa7435ab2b43cf2ca6bf377"/>
+			<string id="item_category" value="unlockables"/>
+		</record>
+		<record>
+			<string id="name" value="item_all_players_interested"/>
+			<string id="offer_id" value="165880cb58564bb6b84c060450cc4314"/>
+			<string id="unlockable" value="8"/>
+			<string id="item_id" value="5e5d3359a24f425a9b1cadcaa8721361"/>
+			<string id="item_category" value="unlockables"/>
+		</record>
+		<record>
+			<string id="name" value="item_no_foreign_restrictions"/>
+			<string id="offer_id" value="27b2f08d1a6f40f4a1b3bd9a257ee2d1"/>
+			<string id="unlockable" value="9"/>
+			<string id="item_id" value="da90c463a0964a4983be02e515f5c3cd"/>
+			<string id="item_category" value="unlockables"/>
+		</record>
+		<record>
+			<string id="name" value="item_unlimited_scouting"/>
+			<string id="offer_id" value="934e8cd396f54598917598f2b82fbe55"/>
+			<string id="unlockable" value="10"/>
+			<string id="item_id" value="b40a68a01f35400d8fe8e13518890bce"/>
+			<string id="item_category" value="unlockables"/>
+		</record>
+		<record>
+			<string id="name" value="item_new_stadium"/>
+			<string id="offer_id" value="da625a56d0714ce29f38ead85fc8cd5c"/>
+			<string id="unlockable" value="11"/>
+			<string id="item_id" value="934b96e2f46d45968a48dc3b0d247f88"/>
+			<string id="item_category" value="unlockables"/>
+		</record>
+		<record>
+			<string id="name" value="item_fog_of_war"/>
+			<string id="offer_id" value="6eea62741cc946a286f328b16c84066f"/>
+			<string id="unlockable" value="12"/>
+			<string id="item_id" value="be9e52ec5362401fba259a89739f2b20"/>
+			<string id="item_category" value="unlockables"/>
+		</record>
+		<record>
+			<string id="name" value="item_boost_balance_small"/>
+			<string id="offer_id" value="fb4442b491264cd3a85a3fc49f94693a"/>
+			<string id="unlockable" value="13"/>
+			<string id="item_id" value="8591871de43d4ce4a7fb9358348b7c78"/>
+			<string id="item_category" value="boost_balance"/>
+		</record>
+		<record>
+			<string id="name" value="item_boost_balance_medium"/>
+			<string id="offer_id" value="dbcbce96c09442cb8c1b369cfacc3929 "/>
+			<string id="unlockable" value="14"/>
+			<string id="item_id" value="d9706d022ca54123831b06b918218f0e"/>
+			<string id="item_category" value="boost_balance"/>
+		</record>
+		<record>
+			<string id="name" value="item_boost_balance_large"/>
+			<string id="offer_id" value="443ac18995274bc4a8e8b346020e4748"/>
+			<string id="unlockable" value="15"/>
+			<string id="item_id" value="ba347f3fc8394d2da03bc267726c1854"/>
+			<string id="item_category" value="boost_balance"/>
+		</record>
+		<record>
+			<string id="name" value="item_boost_balance_verylarge"/>
+			<string id="offer_id" value="9c59f471f14740c09c5a8a6173f47249"/>
+			<string id="unlockable" value="16"/>
+			<string id="item_id" value="a6a21803f35c44b1a8cb0d8374df3e8f"/>
+			<string id="item_category" value="boost_balance"/>
+		</record>
+		<record>
+			<string id="name" value="item_boost_team_morale"/>
+			<string id="offer_id" value="97408232545d484f881925718dcbdebe"/>
+			<string id="unlockable" value="18"/>
+			<string id="item_id" value="9d42cb46d36e48e99eb596b0fa44b56d"/>
+			<string id="item_category" value="unlockables"/>
+		</record>
+		<record>
+			<string id="name" value="item_treat_injured_player"/>
+			<string id="offer_id" value="86cf6d916dc44aa488c36944d927b1c1"/>
+			<string id="unlockable" value="19"/>
+			<string id="item_id" value="6881c32cac9b480f9c71a19164ea006a"/>
+			<string id="item_category" value="unlockables"/>
+		</record>
+		<record>
+			<string id="name" value="item_poison_opponents"/>
+			<string id="offer_id" value="d943c83a75fc4887ba752e86b19a43ea"/>
+			<string id="unlockable" value="20"/>
+			<string id="item_id" value="896899553d4147809e37aac20aeea94b"/>
+			<string id="item_category" value="unlockables"/>
+		</record>
+		<record>
+			<string id="name" value="item_lifetime_player_contract"/>
+			<string id="offer_id" value="12198c1b8d7f4e8ba096fea7a72ae083"/>
+			<string id="unlockable" value="21"/>
+			<string id="item_id" value="c81fd6291943494dbb981fa24b4346d5"/>
+			<string id="item_category" value="unlockables"/>
+		</record>
+		<record>
+			<string id="name" value="item_unsuspend_player"/>
+			<string id="offer_id" value="eb40f335b6ac4b56a42f77e974a491bb"/>
+			<string id="unlockable" value="22"/>
+			<string id="item_id" value="94f575d441bc4807ab313d56a398cf1c"/>
+			<string id="item_category" value="unlockables"/>
+		</record>
+		<record>
+			<string id="name" value="item_all_jobs"/>
+			<string id="offer_id" value="cb074bfd13974e43a5339bcde5f8e9ba"/>
+			<string id="unlockable" value="23"/>
+			<string id="item_id" value="7cd05c600aee4f269ce736a9ddefa16c"/>
+			<string id="item_category" value="unlockables"/>
+		</record>
+		<record>
+			<string id="name" value="item_design_a_son"/>
+			<string id="offer_id" value="15d8e9bb34364be998641b0660da42ab"/>
+			<string id="unlockable" value="24"/>
+			<string id="item_id" value="7f69c8ff67104e1c9057478413d84327"/>
+			<string id="item_category" value="unlockables"/>
+		</record>
+		<record>
+			<string id="name" value="item_start_from_bottom"/>
+			<string id="offer_id" value="5361d0333a434e869e3bedd8152f1ebe"/>
+			<string id="unlockable" value="25"/>
+			<string id="item_id" value="86a30b90015e433698f8d69f5e8f663a"/>
+			<string id="item_category" value="challenges"/>
+		</record>
+		<record>
+			<string id="name" value="item_admin_disaster"/>
+			<string id="offer_id" value="df81365a19ca446fb1159b0bd2c47bf1"/>
+			<string id="unlockable" value="26"/>
+			<string id="item_id" value="0da8e5e0346144b38bdb01006f16bcbc"/>
+			<string id="item_category" value="challenges"/>
+		</record>
+		<record>
+			<string id="name" value="item_fixture_pileup"/>
+			<string id="offer_id" value="ef49654caf974954be3d1d089ebd60ce"/>
+			<string id="unlockable" value="27"/>
+			<string id="item_id" value="94a617ade66d4a2f8a16ffcf2397f92e"/>
+			<string id="item_category" value="challenges"/>
+		</record>
+		<record>
+			<string id="name" value="item_golden_generation"/>
+			<string id="offer_id" value="00b7579f07844addbbfdbb8e22085626"/>
+			<string id="unlockable" value="28"/>
+			<string id="item_id" value="61dc013efcf6459e86fd5cd5a96085bb"/>
+			<string id="item_category" value="unlockables"/>
+		</record>
+		<record>
+			<string id="name" value="item_dream_transfer"/>
+			<string id="offer_id" value="44db2633b3ff4138b56e26771c3ca373"/>
+			<string id="unlockable" value="29"/>
+			<string id="item_id" value="57580a2f3bd4469bb2e0a5e348dd1e8b"/>
+			<string id="item_category" value="unlockables"/>
+		</record>
+	</list>
+</record>

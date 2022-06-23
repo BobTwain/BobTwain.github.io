@@ -1,0 +1,1192 @@
+END USER LICENSE AGREEMENT
+
+THIS SOFTWARE IS LICENSED, NOT SOLD.  SEGA Games Co., Ltd of 1-2-12, Haneda, Ohta-ku, Tokyo, 144-8531 Japan and its affiliated companies (collectively, "SEGA" or "We") reserves all rights not expressly granted to you.  The products that are subject to this license are referred to in this license as the Game Software, Editors, Additional Content, Physical Materials and Key Code (each as defined below) and collectively as the "PRODUCT".
+ 
+If you have any questions about this agreement, you can reach SEGA at 27 Great West Road, Brentford, Middlesex, TW8 9BW, England, Attn. Legal Department. 
+
+
+This is a legal agreement between you and SEGA.  Please review this End User License Agreement ("AGREEMENT") carefully before installing, accessing or utilizing the game you have just purchased ("GAME SOFTWARE"), the editing software you have just downloaded or any part of the Game Software or any third party software authorised for use with the Game Software by SEGA which allows you to construct new variations, modifications, derivations, adaptations, copies or improvements of the Game Software ("EDITORS"), , any other content available for download whether for purchase or offered without cost by SEGA ("ADDITIONAL CONTENT"), the packaging, printed manuals and any other materials accompanying the Game Software if applicable ( (the "PHYSICAL MATERIALS"), and the unique alpha-numeric sequence of numbers which is printed on the manual and/or other documents included with the Physical Materials or delivered to you electronically which when activated on a third-party platform enable you to redeem, access, download and use the Game Software ("KEY CODE"). The Game Software includes all software included with the video game, the associated media, any updates and upgrades that replace or supplement the software that are not distributed with a separate license, the associated media, any software associated with the online mode of the video game, , any online or electronic documentation, and any and all copies of such software and materials. 
+
+Please inquire about anything you do not understand.  SEGA requests that you contact one of the customer service centers advertised in the information accompanying any of the Products. Please note that there may be a charge for the telephone call to the customer service center.
+
+
+IMPORTANT - READ CAREFULLY: BY INSTALLING, OPENING, COPYING AND/OR OTHERWISE USING THIS PRODUCT YOU HEREBY ACKNOWLEDGE, ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT. THIS AGREEMENT, AS AMENDED FROM TIME TO TIME AND PUBLISHED AT http://www.sega.co.uk/legal/terms.php, INCORPORATES THE SEGA PRIVACY POLICY (PUBLISHED AT http://www.sega.co.uk/legal/privacy.php). THE AGREEMENT APPLIES TO ALL USERS OF THE PRODUCT INCLUDING USERS WHO ARE ALSO CONTRIBUTORS OF CONTENT, INFORMATION, AND OTHER MATERIALS OR SOFTWARE.  IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, YOU ARE NOT PERMITTED TO INSTALL, OPEN, COPY OR OTHERWISE USE THE PRODUCTS.  YOUR REMEDY FOR DISSATISFACTION WITH THE PRODUCT OR ANY OTHER MATERIALS OR INFORMATION MADE AVAILABLE BY OR THROUGH SEGA, IS TO STOP USING SUCH PRODUCT.  YOUR AGREEMENT WITH SEGA REGARDING COMPLIANCE WITH THE AGREEMENT BECOMES EFFECTIVE IMMEDIATELY UPON COMMENCEMENT OF YOUR USE OF THE PRODUCT.  IF YOU DO NOT AGREE TO THE TERMS SET FORTH IN THIS AGREEMENT, DO NOT DOWNLOAD OR USE THE PRODUCT AND SEGA SHALL NOT GRANT, OR BE DEEMED TO GRANT, TO YOU THE LICENSE TO INSTALL AND USE THE PRODUCTS. 
+
+
+CANCELLATION RIGHTS: DIGITAL CONTENT 
+
+FOR ANY PURCHASE OF DIGITAL CONTENT (INCLUDING BUT NOT LIMITED TO THE GAME SOFTWARE, EDITORS, ADDITIONAL CONTENT AND/OR KEY CODE) YOU AGREE THAT SEGA MAKES THE PRODUCT AVAILABLE TO YOU FOR DOWNLOAD AND USE IMMEDIATELY AFTER WE HAVE ACCEPTED YOUR ORDER AND ONCE MADE AVAILABLE, AS FAR AS PERMITTED BY LAW, YOU WILL HAVE NO RIGHT TO CANCEL YOUR ORDER OR TO A "COOLING OFF PERIOD" AND YOU CANNOT OBTAIN A REFUND, UNLESS EXPLICITELY STATED OTHERWISE BY US OR THE THIRD PARTY RETAILER. 
+
+
+1. USER'S ACKNOWLEDGMENT AND ACCEPTANCE OF TERMS  
+
+The Product is offered subject to your compliance with all of the terms and conditions contained herein and all other operating rules, policies and procedures.  In addition, some applications offered through or in connection with the Product may be subject to additional terms and conditions published by SEGA from time to time.  Any material modifications to the Agreement will also be brought to your attention by posting on http://www.sega.co.uk/legal/terms.php or http://www.sega.co.uk/legal/privacy.php.  Such material modifications will be effective immediately, and will apply to disputes arising under the Agreement from the date of posting forward.  Your continued use of the Product after a modification has been made to the Agreement constitutes your acceptance of such modification. 
+Local laws in your respective jurisdiction may require that you are of a certain age in order to enter into certain legally binding arrangements such as the terms of this Agreement. 
+
+In the event that you are under the required age, you may not continue to use the Product, unless your parent or legal guardian has reviewed and agreed to these terms. Local laws may also require that children under a certain age are supervised during their use of the Product. By using the Product, you warrant that you are old enough to use the Product without supervision. If you are under the required age, your parent or legal guardian warrants that they are supervising and monitoring your use of the Product at all times.
+
+This Product may not be appropriate for children under a certain age. Where possible, SEGA shall provide an indication of the appropriate age based on the content contained within the Product using a games rating.  The games rating is a guideline only and SEGA shall not be liable in the event that you deem such material to be inappropriate for the age rating in all the circumstances. Please be aware that not all features of the Product are rated and some features may contain adult language and material. 
+
+2. LIMITED USE LICENSE 
+
+Subject to your compliance with the terms and conditions of the Agreement, SEGA hereby grants you a non-exclusive, non-transferable, limited, fully revocable right and license to install, access and use one (1) copy of the Product solely and exclusively for your personal and non-commercial use.. This Agreement shall also apply to any patches, updates or upgrades you may obtain for the any of the Products.  IN ACCORDANCE WITH AND WITHOUT LIMITATION TO THE PROVISIONS OR PROTECTIONS SET FORTH HEREIN, DUPLICATION, COPYING OR ANY FORM OF REPRODUCTION OF THE PRODUCT OR RELATED INFORMATION OR MATERIALS TO ANY OTHER SERVER OR LOCATION FOR THE PURPOSES OF ANY OTHER FORM OF REPRODUCTION OR ANY FORM OF DISTRIBUTION IS EXPRESSLY AND EXPLICITLY PROHIBITED. All rights not specifically granted under this Agreement are hereby reserved by SEGA and, as applicable, by its licensors.
+
+You may not cause or permit the sale or other commercial distribution or commercial exploitation (e.g., by renting, licensing, sublicensing, leasing, disseminating, uploading, downloading, transmitting, whether on a pay-per-play basis or otherwise) of the Product (or any part thereof), without the express prior written consent of an authorised representative of SEGA. 
+
+3. NO RIGHT TO OWNERSHIP
+
+YOU ACKNOWLEDGE AND AGREE THAT YOU SHALL HAVE NO OWNERSHIP OR OTHER PROPERTY INTEREST IN THE PRODUCT, AND YOU FURTHER ACKNOWLEDGE AND AGREE THAT ALL SUCH RIGHTS ARE AND SHALL FOREVER BE OWNED BY AND INURE TO THE BENEFIT OF SEGA.  Except as expressly licensed to you herein, all right, title, and interest in and to the the Product and any and all associated copyrights, trademarks and intellectual properties therein and/or related thereto and all copies thereof (including, but not limited to, any patches, updates, copies, derivative works, titles, computer code, themes, objects, characters, character names, stories, dialogs, catch phrases, locations, concepts, artwork, images, animation, sounds, musical compositions, audio-visual effects, text, methods of operation, moral rights, "applets" incorporated into the Product and any related documentation) are owned by SEGA or SEGA's licensors. 
+
+
+The Product is protected by UK copyright laws, international copyright treaties and conventions, and other laws. All rights are reserved. The Product contains certain licensed materials, and SEGA and SEGA's licensors may protect their rights in the event of any violation of this Agreement. 
+
+This license does not give you any title or ownership in Product, and should not be construed as a sale or transfer of any intellectual property rights in or relating to the Product.
+
+4. NO SALE OR ASSIGNMENT  
+
+SEGA does not recognise the transfer of the Product and for the avoidance of doubt, this shall include the separate transfer of any individual components of the Product (including the Game Software, Editors, Additional Content, Physical Materials and Key Code).  Therefore, you may not give, purchase, sell, bargain, barter, market, trade, offer for sale, sell, license, assign or otherwise divest your rights, responsibilities or obligations under the Agreement, either in whole or in part, without the prior written consent of SEGA.  Any attempt to do so shall be void and of no effect.  
+
+5. USER GENERATED MATERIALS
+
+The Editors provided to you for use with the Game Software allow the synchronization of audio, visual or audio-visual content which is created by you ("User-Generated Content") with the Game Software and/or audiovisual content reproduced from the Game Software ("Game Footage").
+
+Sega acknowledges and agrees that all right, title and interest in the User-Generated Content (excluding any Game Software or Game Footage) shall belong to you. To the extent required by Sega, with respect to the User-Generated Content, you automatically grant to SEGA the irrevocable, perpetual, royalty free, sub-licensable right and license under all applicable copyrights and intellectual property rights laws to use, reproduce, modify, adapt, perform, display, distribute and otherwise exploit and/or dispose of the User-Generated Content (or any part thereof) in any way SEGA sees fit. 
+
+SEGA hereby grants you a non-exclusive, non-transferable, limited, fully revocable right and license to use the Game Software or Game Footage with your User-Generated Content, subject to the terms and conditions of this Agreement and any other policies which SEGA publishes from time to time. The license you have been granted to synchronise the Game Software and the Game Footage does not include any rights to (a) resale of the Game Footage or Game Software; (b) the distribution, public performance or public display of any Game Software or Game Footage other than as expressly authorised herein or in any policies published by SEGA; (c) modifying or otherwise making any derivative uses of the Game Software or Game Footage, or any portion thereof for any other reason. You acknowledge and agree that all right, title and interest in the Game Software and the Game Footage in any part of the world and whether or not registered or registrable and to the fullest extent thereof and for the full period thereof and all extensions and renewals thereof, are for the benefit of SEGA and will remain our property or that of our group companies.
+
+You hereby warrant and represent that any User-Generated Content which you synchronise with the Game Software and/or Game Footage shall not be discriminatory, racist, obscene, libelous, offensive, illegal, defamatory, inappropriate, invasive, or likely to adversely affect the reputation or goodwill of SEGA.
+
+You hereby warrant and represent that any User-Generated Content synchronised with the  Game Software and/or Game Footage, and the subsequent use and exploitation of any of those materials by you and or SEGA, will not infringe any rights of any person (corporate or otherwise) or otherwise result in any potential liability to SEGA and shall not be used for commercial exploitation by you (through pay-per-play or timesharing services or otherwise) unless expressly authorised by SEGA.
+
+6. LICENSE CONDITIONS 
+
+You agree to only use the Product, or any part of it, in a manner that is consistent with this Agreement, and you SHALL NOT:
+
+(a) exploit the Product or any of its parts commercially, including, but not limited to, at a cyber (Internet) café, computer gaming center or any other location-based site;
+
+(b) use the Product or permit the use of the Product, on more than one computer, game console, mobile device, handheld device or PDA at the same time, unless expressly authorised by SEGA;
+
+(c) use the Product, or permit use of such Product, or make the Product available for use in a network, multi-user arrangement, remote access arrangement, including where it could be downloaded by multiple users;
+
+(d) sell, rent, lease, license, distribute or otherwise transfer this Product or any copies;
+
+(e) reverse engineer, derive source code, modify, decompile, disassemble, copy, or create derivative works of the Product, in whole or in part 
+
+(f) remove, disable or circumvent any security protections, proprietary notices or labels contained on or within the Product, including but not limited to separating the Key Code from the Physical Materials included with the Product; 
+
+(g) export or re-export the Product or any copy or adaptation in violation of any applicable laws or regulations; 
+
+(h) create data or executable programs which mimic data or functionality in the Product unless such functionality is provided to you in the Editors 
+
+If you commit any breach of this Agreement, your right to use the Product under this Agreement shall automatically terminate, without notice. Your breach of this Section shall constitute a material breach of this Agreement and/or of applicable copyright and other intellectual property rights laws and treaties, and may subject you to civil and criminal liability.
+
+Furthermore, you agree that you shall abide by the safety information, maintenance instructions or other relevant notices contained in the manual or other documentation accompanying the Products. 
+
+
+7. DISCLAIMER OF WARRANTIES; LIMITATION OF LIABILITY
+
+TO THE FULLEST EXTENT PERMISSIBLE UNDER APPLICABLE LAW, YOU EXPRESSLY AGREE THAT THE USE OF THE PRODUCT IS AT YOUR SOLE RISK AND THAT THE ENTIRE RISK AS TO SATISFACTORY QUALITY, PERFORMANCE, ACCURACY AND EFFORT IS WITH YOU.  EXCEPT IN RELATION TO THE LIMITED GUARANTEE OFFERED BY SEGA IN SECTION 14 OF THIS AGREEMENT, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE PRODUCT IS PROVIDED TO YOU ON AN "AS IS" AND "AS AVAILABLE" BASIS WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND, AND SEGA HEREBY DISCLAIMS ALL WARRANTIES AND CONDITIONS WITH RESPECT TO THE PRODUCT, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, OF SATISFACTORY QUALITY, OF FITNESS FOR A PARTICULAR PURPOSE, OF ACCURACY, OF QUIET ENJOYMENT, AND NON-INFRINGEMENT OF THIRD PARTY RIGHTS.  WITHOUT LIMITING THE FOREGOING, WE MAKE NO WARRANTY THAT (A) THE PRODUCT WILL MEET YOUR REQUIREMENTS, (B) YOUR USE OF THE PRODUCT WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, (C) THE PRODUCT WILL BE INTERAOPERABLE OR COMPATABILE WITH OTHER SOFTWARE, OR (D) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE PRODUCT WILL BE EFFECTIVE, ACCURATE OR RELIABLE.  NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY SEGA OR ITS AUTHORIZED REPRESENTATIVE(S) SHALL CREATE A WARRANTY.
+AT SOME POINT IN THE FUTURE THE PRODUCT MAY GO OUT OF DATE, AND SEGA MAKES NO COMMITMENT TO UPDATE SUCH PRODUCT.  THE DISCLAIMERS OF LIABILITY CONTAINED IN THIS SECTION APPLY TO ANY DAMAGES OR INJURY CAUSED BY ANY FAILURE OF PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DELETION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUS, COMMUNICATION LINE FAILURE, THEFT OR DESTRUCTION OR UNAUTHORIZED ACCESS TO, ALTERATION OF, OR USE OF THE PRODUCT, WHETHER FOR BREACH OF CONTRACT, TORTIOUS BEHAVIOR, NEGLIGENCE, OR UNDER ANY OTHER CAUSE OF ACTION.  THE USE OF THE PRODUCT OR THE DOWNLOADING OR OTHER ACQUISITION OF ANY MATERIALS THROUGH OR IN CONNECTION WITH PRODUCT IS DONE AT YOUR OWN DISCRETION AND RISK AND WITH YOUR AGREEMENT THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM SUCH ACTIVITIES. 
+SEGA MAKES NO REPRESENTATIONS ABOUT THE SUITABILITY OF THE INFORMATION CONTAINED IN THE PRODUCT, INFORMATION AND/OR RELATED GRAPHICS PUBLISHED AS PART OF THE PRODUCT FOR ANY PURPOSE.  THE PRODUCT, INFORMATION AND RELATED GRAPHICS PUBLISHED AS PART OF THE PRODUCT MAY INCLUDE TECHNICAL INACCURACIES OR TYPOGRAPHICAL ERRORS.  You understand and agree that temporary interruptions of the Product may occur as normal events. You further understand and agree that we have no control over third party networks you may access in the course of the use of the Product, and therefore, delays and disruption of other network transmissions are completely beyond SEGA's control. 
+YOU ACKNOWLEDGE AND AGREE THAT YOUR EXCLUSIVE REMEDY FOR ANY DISPUTE WITH SEGA IS TO STOP USING THE PRODUCT.  IN NO CASE SHALL ANY LIABILITY OF SEGA TO YOU EXCEED THE AMOUNT THAT YOU PAID TO SEGA OR ITS AFFILIATES AND/OR DESIGNEES FOR THE APPLICABLE PRODUCT GIVING RISE TO ANY SUCH LIABILITY.  IN NO EVENT SHALL SEGA OR ITS AFFILIATES BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY SPECIAL, PUNITIVE, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES OF ANY KIND, OR ANY DAMAGES WHATSOEVER, INCLUDING, WITHOUT LIMITATION, THOSE RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER OR NOT WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND ON ANY THEORY OF LIABILITY, ARISING OUT OF OR IN CONNECTION WITH THE USE OF THE PRODUCT, INCLUDING DAMAGES TO PROPERTY, LOSS OF GOODWILL, COMPUTER FAILURE OR MALFUNCTION AND, TO THE EXTENT PERMITTED BY LAW, DAMAGES FOR PERSONAL INJURIES, EVEN IF SEGA HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+BECAUSE SOME STATES OR JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR THE LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, IN SUCH STATES OR JURISDICTIONS, THE LIABILITY OF SEGA AND THE SEGA PARTIES SHALL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY LAW.
+
+8. INDEMNIFICATION  
+
+Upon a request by SEGA, you agree to defend, indemnify, and hold SEGA and its affiliates harmless from all liabilities, claims, losses, costs and expenses, including attorneys' fees, that arise from (a) your use of, or activities in connection with the Product (including but not limited to the creation and use of User-Generated Content which is synchronised with the Game Software and/or Game Footage; (b) any violation of the Agreement by you; or (c) any allegation that any content that you make available via the Product infringes or otherwise violates the copyright, trademark, trade secret, privacy or other intellectual property or other rights of any third party.  SEGA reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, in which event you will cooperate with SEGA in asserting any available defenses.
+
+9. E-MAIL, MESSAGING, BLOGGING AND CHAT  
+
+SEGA may make email, messaging, blogging, or chat (collectively, "COMMUNICATION SOFTWARE") available through the Product, either directly or through a third-party provider.  SEGA is not responsible for communications made by other users via the Communication Software.  We are not responsible for communications made by you via the Communication Software.  You acknowledge and agree that your communications made via the Communication Software are public and not private communications and that you have no expectation of privacy concerning your use of the Communication Software.  You acknowledge and agree that personal information that you communicate via the Communication Software may be seen and used by others and may result in widespread distribution of such information.  We strongly encourage you not to disclose any personal information in your public communications via the Communication Software unless you wish such information to be made permanently available to the public.
+
+SEGA may provide links to other third-party World Wide web sites or resources through the Product, either directly or through a third-party provider. SEGA makes no representations whatsoever about any other web site which you may access. Because SEGA has no control over such sites and resources, you acknowledge and agree that SEGA is not responsible for the availability of such external sites or resources and is not responsible or liable for any content, advertising, products, services or other materials on or available from such sites or resources and you access these websites at your own risk. References to any names, marks, products or services of any third parties or hypertext links to third party sites or information are provided solely as a convenience to you, and do not constitute or imply an endorsement, sponsorship or recommendation of, or affiliation with the third party or its products and services. SEGA makes no representation or warranty as to any third party content, products or services, and you agree that SEGA shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such third-party content, products or services available on or through any such site or resource.
+
+
+10. INTERNATIONAL USE
+
+Although the Product may be accessible worldwide, we make no representation that the Product or related materials are appropriate or available for use in your location , and the Product may not be accessed from territories where the content is prohibited by local laws.  Those who choose to access the Product from such locations do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable.  Any offer and/or information made in connection with the Product is void where prohibited.  Without limiting the foregoing, the Products may not be exported or re-exported (a) into (or to a national resident of) any U.S. embargoed countries or (b) to anyone on the U.S. Treasury Department's list of Specially Designated Nationals or the U.S. Department of Commerce Denied Person's List or Entity List.  By accessing and using the Products, you represent and warrant that you are not located in, under control of, or a national resident of any such country or on any such list.
+
+11. TERMINATION AND SURVIVABILITY OF TERMS
+
+The Agreement set forth herein continues to remain in full force and effect until such time as terminated by either party.  You agree and acknowledge that you are not entitled to any refund for any amounts which were paid to SEGA prior to any termination.  You retain full discretion to discontinue use of the Product at any time, pursuant to the terms of this Agreement.  Without prejudice to any other rights of SEGA, this Agreement shall terminate automatically if you fail to comply with its terms and conditions.  Upon termination, you must destroy all copies of the Product.  The provisions of Sections 3, 4, 6, 7, 8, 10, 11 and 12 shall survive any termination of this Agreement.
+
+12. INJUNCTION
+
+Because SEGA would be irreparably damaged if the terms of this Agreement were not specifically enforced, you agree that SEGA shall be entitled, without bond or other security or proof of damages, to take such action as may be required, including seeking an injunction and other equitable remedies, in addition to any other remedies available to it under the applicable law. 
+
+13. DATA PROTECTION
+
+YOU ACKNOWLEDGE THAT SEGA DOES AND MAY COLLECT DATA DERIVED FROM YOUR PLAYING AND/OR USE OF ANY OF THE PRODUCTS. FOR EXAMPLE, SEGA MAY COLLECT OR PROCESS INFORMATION ABOUT YOUR COMPUTER, INCLUDING WHERE AVAILABLE YOUR IP ADDRESS AND OPERATING SYSTEM. THIS IS STATISTICAL DATA ABOUT OUR YOUR BROWSING ACTIONS AND PATTERNS, AND DOES NOT IDENTIFY ANY INDIVIDUAL. THE COLLECTION AND STORAGE OF THE ABOVE DATA AND GAME PLAY IS SOLELY FOR THE PURPOSES OF FACILITATING THE EXISTING FUNCTIONALITY OF THE PRODUCTS, ASSISTING SEGA IN ASSESSING IMPROVEMENTS TO IT AND OTHER GAMES BASED ON GENERAL PLAYING PATTERNS AND FOR DIGITAL MANAGEMENT PURPOSES (more details about SEGA's privacy policy can be found at: http://www.sega.co.uk/legal/privacy.php). 
+
+Questions, comments and requests regarding the data we collect are welcomed and should be addressed to SEGA Europe Limited, Customer Service Department, 27 Great West Road, Brentford, Middlesex, TW8 9BW, UK or customersupportuk@sega.co.uk. 
+
+14. LIMITED GAME SOFTWARE GUARANTEE
+
+SUBJECT TO THE LIMITATION SET OUT BELOW, SEGA WARRANTS TO THE ORIGINAL BUYER OF THIS PRODUCT THAT THIS PRODUCT WILL PERFORM UNDER NORMAL USE SUBSTANTIALLY AS DESCRIBED IN THIS PRODUCT AND/OR ITS ACCOMPANYING MANUAL, FOR A PERIOD OF NINETY (90) DAYS FROM THE DATE OF FIRST PURCHASE (THE "GUARANTEE"). THIS GUARANTEE GIVES YOU SPECIFIC RIGHTS, AND YOU MAY ALSO HAVE STATUTORY OR OTHER RIGHTS UNDER YOUR LOCAL JURISDICTION, WHICH REMAIN UNAFFECTED. 
+
+THIS GUARANTEE SHALL NOT APPLY IF THIS PRODUCT IS USED IN A BUSINESS OR COMMERCIAL MANNER AND/OR IF ANY DEFECT OR FAULT RESULTS FROM YOUR (OR SOMEONE ACTING UNDER YOUR CONTROL OR AUTHORITY) FAULT, NEGLIGENCE, ACCIDENT, ABUSE, VIRUS, MISUSE OR MODIFICATION OF THE PRODUCT AFTER PURCHASE.
+
+IF YOU DISCOVER A PROBLEM WITH THIS PRODUCT WITHIN THE GUARANTEE PERIOD (INCLUDING A PROBLEM WITH THE ACTIVATION OF THE GAME SOFTWARE, USING KEY-CODES OR OTHERWISE), YOU SHOULD CONTACT THE RETAILER FROM WHERE YOU BOUGHT THE PRODUCT. PLEASE ENSURE THAT YOU HAVE A COPY OF THE ORIGINAL SALES RECEIPT AS YOU MAY BE ASKED TO PROVIDE THIS TO THE RETAILER. IF YOU DISCOVER A BUG OR ERROR IN THE PRODUCT, PLEASE CONTACT THE TECHNICAL SUPPORT TEAM AT SEGA (DETAILS SET OUT BELOW) AND INFORM THEM OF THE DIFFICULTY YOU ARE EXPERIENCING WITH THE PRODUCT. THE RETAILER OR SEGA WILL EITHER REPAIR OR REPLACE THE PRODUCT AT THEIR OPTION. ANY REPLACEMENT PRODUCT WILL BE GUARANTEED FOR THE REMAINDER OF THE ORIGINAL GUARANTEE PERIOD OR NINETY (90) DAYS FROM RECEIPT OF THE REPLACEMENT PRODUCT, WHICHEVER IS LONGER. IF FOR ANY REASON THE PRODUCT CANNOT BE REPAIRED OR REPLACED, YOU WILL BE ENTITLED TO RECEIVE AN AMOUNT UP TO THE PRICE YOU PAID FOR THE PRODUCT. THE FOREGOING (REPAIR, REPLACEMENT OR THE PRICE YOU PAID FOR THE GAME SOFTWARE) IS YOUR EXCLUSIVE REMEDY. FOR THE AVOIDANCE OF DOUBT, THE LIMITATION OF LIABILITY SET-OUT IN SECTION 7 OF THIS AGREEMENT SHALL BE APPLICABLE TO THIS GUARANTEE.
+
+15. OPEN SOURCE SOFTWARE AND THIRD PARTY SOFTWARE
+
+THE GAME SOFTWARE INCLUDES AND/OR USES OPEN SOURCE SOFTWARE ("OSS") AND THIRD PARTY SOFTWARE ("TPS"). YOU AGREE TO BE BOUND BY THE LICENCE TERMS IN RESPECT OF THE OSS AND TPS CONTAINED IN THE SOFTWARE. 
+
+
+
+
+CppUnit 1.12.1
+
+Copyright (C) 2013, Michael Feathers
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or 
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+GNU LESSER GENERAL PUBLIC LICENSE
+
+Version 3, 29 June 2007
+
+Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+
+This version of the GNU Lesser General Public License incorporates the terms and conditions of version 3 of the GNU General Public License, supplemented by the additional permissions listed below.
+
+0. Additional Definitions.
+
+As used herein, "this License" refers to version 3 of the GNU Lesser General Public License, and the "GNU GPL" refers to version 3 of the GNU General Public License.
+
+"The Library" refers to a covered work governed by this License, other than an Application or a Combined Work as defined below.
+
+An "Application" is any work that makes use of an interface provided by the Library, but which is not otherwise based on the Library. Defining a subclass of a class defined by the Library is deemed a mode of using an interface provided by the Library.
+
+A "Combined Work" is a work produced by combining or linking an Application with the Library.  The particular version of the Library with which the Combined Work was made is also called the "Linked Version".
+
+The "Minimal Corresponding Source" for a Combined Work means the Corresponding Source for the Combined Work, excluding any source code for portions of the Combined Work that, considered in isolation, are based on the Application, and not on the Linked Version.
+
+The "Corresponding Application Code" for a Combined Work means the object code and/or source code for the Application, including any data and utility programs needed for reproducing the Combined Work from the Application, but excluding the System Libraries of the Combined Work.
+
+1. Exception to Section 3 of the GNU GPL.
+
+You may convey a covered work under sections 3 and 4 of this License without being bound by section 3 of the GNU GPL.
+
+2. Conveying Modified Versions.
+
+If you modify a copy of the Library, and, in your modifications, a facility refers to a function or data to be supplied by an Application that uses the facility (other than as an argument passed when the facility is invoked), then you may convey a copy of the modified version:
+
+a) under this License, provided that you make a good faith effort to ensure that, in the event an Application does not supply the function or data, the facility still operates, and performs whatever part of its purpose remains meaningful, or
+
+b) under the GNU GPL, with none of the additional permissions of this License applicable to that copy.
+
+3. Object Code Incorporating Material from Library Header Files.
+
+The object code form of an Application may incorporate material from a header file that is part of the Library.  You may convey such object code under terms of your choice, provided that, if the incorporated material is not limited to numerical parameters, data structure layouts and accessors, or small macros, inline functions and templates (ten or fewer lines in length), you do both of the following:
+
+a) Give prominent notice with each copy of the object code that the Library is used in it and that the Library and its use are covered by this License.
+
+b) Accompany the object code with a copy of the GNU GPL and this license document.
+
+4. Combined Works.
+
+You may convey a Combined Work under terms of your choice that, taken together, effectively do not restrict modification of the portions of the Library contained in the Combined Work and reverse engineering for debugging such modifications, if you also do each of the following:
+
+a) Give prominent notice with each copy of the Combined Work that the Library is used in it and that the Library and its use are covered by this License.
+
+b) Accompany the Combined Work with a copy of the GNU GPL and this license document.
+
+c) For a Combined Work that displays copyright notices during execution, include the copyright notice for the Library among these notices, as well as a reference directing the user to the copies of the GNU GPL and this license document.
+
+d) Do one of the following: 
+
+0) Convey the Minimal Corresponding Source under the terms of this License, and the Corresponding Application Code in a form suitable for, and under terms that permit, the user to recombine or relink the Application with a modified version of the Linked Version to produce a modified Combined Work, in the manner specified by section 6 of the GNU GPL for conveying Corresponding Source.
+
+1) Use a suitable shared library mechanism for linking with the Library.  A suitable mechanism is one that (a) uses at run time a copy of the Library already present on the user's computer system, and (b) will operate properly with a modified version of the Library that is interface-compatible with the Linked Version.
+
+e) Provide Installation Information, but only if you would otherwise be required to provide such information under section 6 of the GNU GPL, and only to the extent that such information is necessary to install and execute a modified version of the Combined Work produced by recombining or relinking the Application with a modified version of the Linked Version. (If you use option 4d0, the Installation Information must accompany the Minimal Corresponding Source and Corresponding Application Code. If you use option 4d1, you must provide the Installation Information in the manner specified by section 6 of the GNU GPL for conveying Corresponding Source.)
+
+5. Combined Libraries.
+
+You may place library facilities that are a work based on the Library side by side in a single library together with other library facilities that are not Applications and are not covered by this License, and convey such a combined library under terms of your choice, if you do both of the following:
+
+a) Accompany the combined library with a copy of the same work based  on the Library, uncombined with any other library facilities, conveyed under the terms of this License.
+
+b) Give prominent notice with the combined library that part of it is a work based on the Library, and explaining where to find the accompanying uncombined form of the same work.
+
+6. Revised Versions of the GNU Lesser General Public License.
+
+The Free Software Foundation may publish revised and/or new versions of the GNU Lesser General Public License from time to time. Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns.
+
+Each version is given a distinguishing version number. If the Library as you received it specifies that a certain numbered version of the GNU Lesser General Public License "or any later version" applies to it, you have the option of following the terms and conditions either of that published version or of any later version published by the Free Software Foundation. If the Library as you received it does not specify a version number of the GNU Lesser General Public License, you may choose any version of the GNU Lesser General Public License ever published by the Free Software Foundation.
+
+If the Library as you received it specifies that a proxy can decide whether future versions of the GNU Lesser General Public License shall apply, that proxy's public statement of acceptance of any version is permanent authorization for you to choose that version for the Library.
+
+CRYPTO++ 5.6.1
+
+Compilation Copyright (c) 1995-2013 by Wei Dai. All rights reserved. This copyright applies only to this software distribution package as a compilation, and does not imply a copyright on any particular file in the package.
+
+All individual files in this compilation are placed in the public domain by Wei Dai and other contributors. The author thanks the following authors for placing their works into the public domain:
+
+Joan Daemen - 3way.cpp
+Leonard Janke - cast.cpp, seal.cpp
+Steve Reid - cast.cpp
+Phil Karn - des.cpp
+Andrew M. Kuchling - md2.cpp, md4.cpp
+Colin Plumb - md5.cpp
+Seal Woods - rc6.cpp
+Chris Morgan - rijndael.cpp
+Paulo Baretto - rijndael.cpp, skipjack.cpp, square.cpp
+Richard De Moliner - safer.cpp
+Matthew Skala - twofish.cpp
+Kevin Springle - camellia.cpp, shacal2.cpp, ttmac.cpp, whrlpool.cpp, ripemd.cpp
+Ronny Van Keer - sha3.cpp
+
+The Crypto++ Library (as a compilation) is currently licensed under the Boost Software License 1.0 (http://www.boost.org/users/license.html).
+
+Boost Software License - Version 1.0 - August 17th, 2003
+
+Permission is hereby granted, free of charge, to any person or organization obtaining a copy of the software and accompanying documentation covered by this license (the "Software") to use, reproduce, display, distribute, execute, and transmit the Software, and to prepare derivative works of the Software, and to permit third-parties to whom the Software is furnished to do so, all subject to the following:
+
+The copyright notices in the Software and this entire statement, including the above license grant, this restriction and the following disclaimer, must be included in all copies of the Software, in whole or in part, and all derivative works of the Software, unless such copies or derivative works are solely in the form of machine-executable object code generated by a source language processor.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+EXPAT 2.1.0
+
+Copyright (c) 1998, 1999, 2000 Thai Open Source Software Center Ltd
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+FREETYPE 2.6.0
+
+Portions of this software are copyright © 2012 The FreeType Project (www.freetype.org).  All rights reserved.
+
+The FreeType Project LICENSE
+                    ----------------------------
+
+                            2006-Jan-27
+
+                    Copyright 1996-2002, 2006 by
+          David Turner, Robert Wilhelm, and Werner Lemberg
+
+
+Introduction
+============
+
+  The FreeType  Project is distributed in  several archive packages;
+  some of them may contain, in addition to the FreeType font engine,
+  various tools and  contributions which rely on, or  relate to, the
+  FreeType Project.
+
+  This  license applies  to all  files found  in such  packages, and
+  which do not  fall under their own explicit  license.  The license
+  affects  thus  the  FreeType   font  engine,  the  test  programs,
+  documentation and makefiles, at the very least.
+
+  This  license   was  inspired  by  the  BSD,   Artistic,  and  IJG
+  (Independent JPEG  Group) licenses, which  all encourage inclusion
+  and  use of  free  software in  commercial  and freeware  products
+  alike.  As a consequence, its main points are that:
+
+    o We don't promise that this software works. However, we will be
+      interested in any kind of bug reports. ('as is' distribution)
+
+    o You can  use this software for whatever you  want, in parts or
+      full form, without having to pay us. ('royalty-free' usage)
+
+    o You may not pretend that  you wrote this software.  If you use
+      it, or  only parts of it,  in a program,  you must acknowledge
+      somewhere  in  your  documentation  that  you  have  used  the
+      FreeType code. ('credits')
+
+  We  specifically  permit  and  encourage  the  inclusion  of  this
+  software, with  or without modifications,  in commercial products.
+  We  disclaim  all warranties  covering  The  FreeType Project  and
+  assume no liability related to The FreeType Project.
+
+
+  Finally,  many  people  asked  us  for  a  preferred  form  for  a
+  credit/disclaimer to use in compliance with this license.  We thus
+  encourage you to use the following text:
+
+   """
+    Portions of this software are copyright © 2015 The FreeType
+    Project (www.freetype.org).  All rights reserved.
+   """
+
+
+Legal Terms
+===========
+
+0. Definitions
+--------------
+
+  Throughout this license,  the terms 'package', 'FreeType Project',
+  and  'FreeType  archive' refer  to  the  set  of files  originally
+  distributed  by the  authors  (David Turner,  Robert Wilhelm,  and
+  Werner Lemberg) as the 'FreeType Project', be they named as alpha,
+  beta or final release.
+
+  'You' refers to  the licensee, or person using  the project, where
+  'using' is a generic term including compiling the project's source
+  code as  well as linking it  to form a  'program' or 'executable'.
+  This  program is  referred to  as  'a program  using the  FreeType
+  engine'.
+
+  This  license applies  to all  files distributed  in  the original
+  FreeType  Project,   including  all  source   code,  binaries  and
+  documentation,  unless  otherwise  stated   in  the  file  in  its
+  original, unmodified form as  distributed in the original archive.
+  If you are  unsure whether or not a particular  file is covered by
+  this license, you must contact us to verify this.
+
+  The FreeType  Project is copyright (C) 1996-2000  by David Turner,
+  Robert Wilhelm, and Werner Lemberg.  All rights reserved except as
+  specified below.
+
+1. No Warranty
+--------------
+
+  THE FREETYPE PROJECT  IS PROVIDED 'AS IS' WITHOUT  WARRANTY OF ANY
+  KIND, EITHER  EXPRESS OR IMPLIED,  INCLUDING, BUT NOT  LIMITED TO,
+  WARRANTIES  OF  MERCHANTABILITY   AND  FITNESS  FOR  A  PARTICULAR
+  PURPOSE.  IN NO EVENT WILL ANY OF THE AUTHORS OR COPYRIGHT HOLDERS
+  BE LIABLE  FOR ANY DAMAGES CAUSED  BY THE USE OR  THE INABILITY TO
+  USE, OF THE FREETYPE PROJECT.
+
+2. Redistribution
+-----------------
+
+  This  license  grants  a  worldwide, royalty-free,  perpetual  and
+  irrevocable right  and license to use,  execute, perform, compile,
+  display,  copy,   create  derivative  works   of,  distribute  and
+  sublicense the  FreeType Project (in  both source and  object code
+  forms)  and  derivative works  thereof  for  any  purpose; and  to
+  authorize others  to exercise  some or all  of the  rights granted
+  herein, subject to the following conditions:
+
+    o Redistribution of  source code  must retain this  license file
+      ('FTL.TXT') unaltered; any  additions, deletions or changes to
+      the original  files must be clearly  indicated in accompanying
+      documentation.   The  copyright   notices  of  the  unaltered,
+      original  files must  be  preserved in  all  copies of  source
+      files.
+
+    o Redistribution in binary form must provide a  disclaimer  that
+      states  that  the software is based in part of the work of the
+      FreeType Team,  in  the  distribution  documentation.  We also
+      encourage you to put an URL to the FreeType web page  in  your
+      documentation, though this isn't mandatory.
+
+  These conditions  apply to any  software derived from or  based on
+  the FreeType Project,  not just the unmodified files.   If you use
+  our work, you  must acknowledge us.  However, no  fee need be paid
+  to us.
+
+3. Advertising
+--------------
+
+  Neither the  FreeType authors and  contributors nor you  shall use
+  the name of the  other for commercial, advertising, or promotional
+  purposes without specific prior written permission.
+
+  We suggest,  but do not require, that  you use one or  more of the
+  following phrases to refer  to this software in your documentation
+  or advertising  materials: 'FreeType Project',  'FreeType Engine',
+  'FreeType library', or 'FreeType Distribution'.
+
+  As  you have  not signed  this license,  you are  not  required to
+  accept  it.   However,  as  the FreeType  Project  is  copyrighted
+  material, only  this license, or  another one contracted  with the
+  authors, grants you  the right to use, distribute,  and modify it.
+  Therefore,  by  using,  distributing,  or modifying  the  FreeType
+  Project, you indicate that you understand and accept all the terms
+  of this license.
+
+4. Contacts
+-----------
+
+  There are two mailing lists related to FreeType:
+
+    o freetype@nongnu.org
+
+      Discusses general use and applications of FreeType, as well as
+      future and  wanted additions to the  library and distribution.
+      If  you are looking  for support,  start in  this list  if you
+      haven't found anything to help you in the documentation.
+
+    o freetype-devel@nongnu.org
+
+      Discusses bugs,  as well  as engine internals,  design issues,
+      specific licenses, porting, etc.
+
+  Our home page can be found at
+
+    http://www.freetype.org
+
+
+
+GLEW 1.10.0
+
+The OpenGL Extension Wrangler Library
+
+Copyright (C) 2002-2008, Milan Ikits <milan ikits@ieee org>
+Copyright (C) 2002-2008, Marcelo E. Magallon <mmagallo@debian org>
+Copyright (C) 2002, Lev Povalahev
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without 
+modification, are permitted provided that the following conditions are met:
+
+* Redistributions of source code must retain the above copyright notice, 
+  this list of conditions and the following disclaimer.
+* Redistributions in binary form must reproduce the above copyright notice, 
+  this list of conditions and the following disclaimer in the documentation 
+  and/or other materials provided with the distribution.
+* The name of the author may be used to endorse or promote products 
+  derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" 
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE 
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE 
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR 
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF 
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
+THE POSSIBILITY OF SUCH DAMAGE.
+
+ICU 1.8.1 AND LATER
+Copyright (c) 1995-2015 International Business Machines Corporation and others
+All rights reserved.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, provided that the above copyright notice(s) and this permission notice appear in all copies of the Software and that both the above copyright notice(s) and this permission notice appear in supporting documentation.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS NOTICE BE LIABLE FOR ANY CLAIM, OR ANY SPECIAL INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+Except as contained in this notice, the name of a copyright holder shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization of the copyright holder.
+
+All trademarks and registered trademarks mentioned herein are the property of their respective owners.
+
+Third-Party Software Licenses
+This section contains third-party software notices and/or additional terms for licensed third-party software components included within ICU libraries.
+1. Unicode Data Files and Software
+COPYRIGHT AND PERMISSION NOTICE
+
+Copyright © 1991-2015 Unicode, Inc. All rights reserved.
+Distributed under the Terms of Use in 
+http://www.unicode.org/copyright.html.
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Unicode data files and any associated documentation
+(the "Data Files") or Unicode software and any associated documentation
+(the "Software") to deal in the Data Files or Software
+without restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, and/or sell copies of
+the Data Files or Software, and to permit persons to whom the Data Files or Software are furnished to do so, provided that
+(a) this copyright and permission notice appear with all copies 
+of the Data Files or Software,
+(b) this copyright and permission notice appear in associated 
+documentation, and
+(c) there is clear notice in each modified Data File or in the Software
+as well as in the documentation associated with the Data File(s) or
+Software that the data or software has been modified.
+
+THE DATA FILES AND SOFTWARE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF
+ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT OF THIRD PARTY RIGHTS.
+IN NO EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS
+NOTICE BE LIABLE FOR ANY CLAIM, OR ANY SPECIAL INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THE DATA FILES OR SOFTWARE.
+
+Except as contained in this notice, the name of a copyright holder
+shall not be used in advertising or otherwise to promote the sale,
+use or other dealings in these Data Files or Software without prior
+written authorization of the copyright holder.
+2. Chinese/Japanese Word Break Dictionary Data (cjdict.txt)
+The Google Chrome software developed by Google is licensed under the BSD license. Other software included in this distribution is provided under other licenses, as set forth below.
+ 
+The BSD License
+http://opensource.org/licenses/bsd-license.php 
+Copyright (C) 2006-2008, Google Inc.
+ 	
+All rights reserved.
+	
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+Neither the name of  Google Inc. nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+	
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+                                             
+The word list in cjdict.txt are generated by combining three word lists listed below with further processing for compound word breaking. The frequency is generated with an iterative training against Google web corpora. 
+ 	
+Libtabe (Chinese)
+- https://sourceforge.net/project/?group_id=1519
+- Its license terms and conditions are shown below.
+ 	
+IPADIC (Japanese)
+- http://chasen.aist-nara.ac.jp/chasen/distribution.html
+- Its license terms and conditions are shown below.
+ 	
+---------COPYING.libtabe ---- BEGIN--------------------
+ 	
+Copyright (c) 1999 TaBE Project.
+Copyright (c) 1999 Pai-Hsiang Hsiao.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+. Neither the name of the TaBE Project nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Copyright (c) 1999 Computer Systems and Communication Lab,
+Institute of Information Science, Academia Sinica.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+. Redistributions in binary form must reproduce the above copyright
+notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+. Neither the name of the Computer Systems and Communication Lab nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Copyright 1996 Chih-Hao Tsai @ Beckman Institute, University of Illinois
+c-tsai4@uiuc.edu  http://casper.beckman.uiuc.edu/~c-tsai4
+ 	
+---------------COPYING.libtabe-----END---------------------------------
+ 	
+ 	
+---------------COPYING.ipadic-----BEGIN--------------------------------
+ 	
+Copyright 2000, 2001, 2002, 2003 Nara Institute of Science and Technology.  All Rights Reserved.
+ 
+Use, reproduction, and distribution of this software is permitted.
+Any copy of this software, whether in its original form or modified, must include both the above copyright notice and the following paragraphs.
+ 	
+Nara Institute of Science and Technology (NAIST), the copyright holders, disclaims all warranties with regard to this software, including all implied warranties of merchantability and fitness, in no event shall NAIST be liable for any special, indirect or consequential damages or any damages whatsoever resulting from loss of use, data or profits, whether in an action of contract, negligence or other tortuous action, arising out of or in connection with the use or performance of this software.
+ 	
+A large portion of the dictionary entries originate from ICOT Free Software.  The following conditions for ICOT Free Software applies to the current dictionary as well.
+
+Each User may also freely distribute the Program, whether in its original form or modified, to any third party or parties, PROVIDED that the provisions of Section 3 ("NO WARRANTY") will ALWAYS appear on, or be attached to, the Program, which is distributed substantially in the same form as set out herein and that such intended distribution, if actually made, will neither violate or otherwise contravene any of the laws and regulations of the countries having jurisdiction over the User or the intended distribution itself.
+ 	
+NO WARRANTY
+ 	
+The program was produced on an experimental basis in the course of the research and development conducted during the project and is provided to users as so produced on an experimental basis.  Accordingly, the
+program is provided without any warranty whatsoever, whether express,
+implied, statutory or otherwise.  The term "warranty" used herein
+includes, but is not limited to, any warranty of the quality, performance, merchantability and fitness for a particular purpose of
+the program and the nonexistence of any infringement or violation of
+any right of any third party.
+	
+Each user of the program will agree and understand, and be deemed to
+have agreed and understood, that there is no warranty whatsoever for
+the program and, accordingly, the entire risk arising from or
+otherwise connected with the program is assumed by the user.
+
+Therefore, neither ICOT, the copyright holder, or any other organization that participated in or was otherwise related to the
+development of the program and their respective officials, directors,
+officers and other employees shall be held liable for any and all
+damages, including, without limitation, general, special, incidental
+and consequential damages, arising out of or otherwise in connection
+with the use or inability to use the program or any product, material
+or result produced or otherwise obtained by using the program,
+regardless of whether they have been advised of, or otherwise had
+knowledge of, the possibility of such damages at any time during the
+project or thereafter.  Each user will be deemed to have agreed to the
+foregoing by his or her commencement of use of the program.  The term
+"use" as used herein includes, but is not limited to, the use,
+modification, copying and distribution of the program and the
+production of secondary products from the program.
+	
+In the case where the program, whether in its original form or
+modified, was distributed or delivered to or received by a user from
+any person, organization or entity other than ICOT, unless it makes or
+grants independently of ICOT any specific warranty to the user in
+writing, such person, organization or entity, will also be exempted
+from and not be held liable to the user for any such damages as noted
+above as far as the program is concerned.
+
+---------------COPYING.ipadic-----END----------------------------------
+3. Lao Word Break Dictionary Data (laodict.txt)
+Copyright (c) 2013 International Business Machines Corporation
+and others. All Rights Reserved.
+ 
+Project:    http://code.google.com/p/lao-dictionary/
+Dictionary: http://lao-dictionary.googlecode.com/git/Lao-Dictionary.txt
+License:    http://lao-dictionary.googlecode.com/git/Lao-Dictionary-LICENSE.txt
+             (copied below)
+ 
+This file is derived from the above dictionary, with slight modifications.
+-----------------------------------------------------------------------
+
+Copyright (C) 2013 Brian Eugene Wilson, Robert Martin Campbell.
+All rights reserved.
+ 
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-----------------------------------------------------------------------
+4. Burmese Word Break Dictionary Data (burmesedict.txt)
+Copyright (c) 2014 International Business Machines Corporation and others. All Rights Reserved.
+
+This list is part of a project hosted at: github.com/kanyawtech/myanmar-karen-word-lists
+ 
+----------------------------------------------------------------------- 
+
+Copyright (c) 2013, LeRoy Benjamin Sharon
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+Neither the name Myanmar Karen Word Lists, nor the names of its
+contributors may be used to endorse or promote products derived from
+this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-----------------------------------------------------------------------
+5. Time Zone Database
+ICU uses the public domain data and code derived from Time Zone Database for its time zone support. The ownership of the TZ database is explained in BCP 175: Procedure for Maintaining the Time Zone Database section 7.
+7.  Database Ownership
+
+The TZ database itself is not an IETF Contribution or an IETF
+document.  Rather it is a pre-existing and regularly updated work
+that is in the public domain, and is intended to remain in the public
+domain.  Therefore, BCPs 78 [RFC5378] and 79 [RFC3979] do not apply
+to the TZ Database or contributions that individuals make to it.
+Should any claims be made and substantiated against the TZ Database,
+the organization that is providing the IANA Considerations defined in
+this RFC, under the memorandum of understanding with the IETF,
+currently ICANN, may act in accordance with all competent court
+orders.  No ownership claims will be made by ICANN or the IETF Trust
+on the database or the code.  Any person making a contribution to the
+database or code waives all rights to future claims in that
+contribution or in the TZ Database.
+
+
+LIBOGG 1.3.2
+
+Copyright (c) 2002, Xiph.org Foundation
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+- Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+- Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+- Neither the name of the Xiph.org Foundation nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS ''AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE FOUNDATION OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Libcurl 7.41.0
+
+Copyright (c) 1996 - 2015, Daniel Stenberg, daniel@haxx.se.
+
+All rights reserved.
+
+Permission to use, copy, modify, and distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+
+Except as contained in this notice, the name of a copyright holder shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization of the copyright holder.
+
+LIBSQUISH 1.11
+The MIT License (MIT)
+Copyright (c) 2013 Simon Brown, Ignacio Castaño
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+LIBTHEORA 1.1.1
+
+Copyright (C) 2002-2009 Xiph.org Foundation
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+- Redistributions of source code must retain the above copyright
+notice, this list of conditions and the following disclaimer.
+
+- Redistributions in binary form must reproduce the above copyright
+notice, this list of conditions and the following disclaimer in the
+documentation and/or other materials provided with the distribution.
+
+- Neither the name of the Xiph.org Foundation nor the names of its
+contributors may be used to endorse or promote products derived from
+this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+''AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE FOUNDATION
+OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+
+
+LJG (LIBJPEG) 9a and 6b
+
+This software is based in part on the work of the Independent JPEG Group. The Graphics Interchange Format(c) is the Copyright property of CompuServe Incorporated.  GIF(sm) is a Service Mark property of CompuServe Incorporated.
+
+LIBPNG 1.6.12
+
+This code is released under the libpng license.
+
+libpng versions 1.2.6, August 15, 2004, through 1.6.2, April 25, 2013, are Copyright (c) 2004, 2006-2012 Glenn Randers-Pehrson, and are distributed according to the same disclaimer and license as libpng-1.2.5 with the following individual added to the list of Contributing Authors
+
+Cosmin Truta
+
+libpng versions 1.0.7, July 1, 2000, through 1.2.5 - October 3, 2002, are Copyright (c) 2000-2002 Glenn Randers-Pehrson, and are distributed according to the same disclaimer and license as libpng-1.0.6 with the following individuals added to the list of Contributing Authors
+
+   Simon-Pierre Cadieux
+   Eric S. Raymond
+   Gilles Vollant
+
+and with the following additions to the disclaimer:
+
+There is no warranty against interference with your enjoyment of the library or against infringement.  There is no warranty that our efforts or the library will fulfill any of your particular purposes or needs.  This library is provided with all faults, and the entire risk of satisfactory quality, performance, accuracy, and effort is with the user.
+
+libpng versions 0.97, January 1998, through 1.0.6, March 20, 2000, are Copyright (c) 1998, 1999 Glenn Randers-Pehrson, and are distributed according to the same disclaimer and license as libpng-0.96, with the following individuals added to the list of Contributing Authors:
+
+   Tom Lane
+   Glenn Randers-Pehrson
+   Willem van Schaik
+
+libpng versions 0.89, June 1996, through 0.96, May 1997, are Copyright (c) 1996, 1997 Andreas Dilger
+Distributed according to the same disclaimer and license as libpng-0.88, with the following individuals added to the list of Contributing Authors:
+
+   John Bowler
+   Kevin Bracey
+   Sam Bushell
+   Magnus Holmgren
+   Greg Roelofs
+   Tom Tanner
+
+libpng versions 0.5, May 1995, through 0.88, January 1996, are Copyright (c) 1995, 1996 Guy Eric Schalnat, Group 42, Inc. For the purposes of this copyright and license, "Contributing Authors" is defined as the following set of individuals:
+
+   Andreas Dilger
+   Dave Martindale
+   Guy Eric Schalnat
+   Paul Schmidt
+   Tim Wegner
+
+The PNG Reference Library is supplied "AS IS". The Contributing Authors and Group 42, Inc. disclaim all warranties, expressed or implied, including, without limitation, the warranties of merchantability and of fitness for any purpose.  The Contributing Authors and Group 42, Inc. assume no liability for direct, indirect, incidental, special, exemplary, or consequential damages, which may result from the use of the PNG Reference Library, even if advised of the possibility of such damage.
+
+Permission is hereby granted to use, copy, modify, and distribute this source code, or portions hereof, for any purpose, without fee, subject to the following restrictions:
+
+1. The origin of this source code must not be misrepresented.
+
+2. Altered versions must be plainly marked as such and must not be misrepresented as being the original source.
+
+3. This Copyright notice may not be removed or altered from any source or altered source distribution.
+
+The Contributing Authors and Group 42, Inc. specifically permit, without fee, and encourage the use of this source code as a component to supporting the PNG file format in commercial products.  If you use this source code in a product, acknowledgment is not required but would be appreciated.
+
+A "png_get_copyright" function is available, for convenient use in "about" boxes and the like:
+
+printf("%s",png_get_copyright(NULL)); Also, the PNG logo (in PNG format, of course) is supplied in the files "pngbar.png" and "pngbar.jpg (88x31) and "pngnow.png" (98x31).
+
+Libpng is OSI Certified Open Source Software.  OSI Certified Open Source is a certification mark of the Open Source Initiative.
+
+Glenn Randers-Pehrson glennrp at users.sourceforge.net June 12, 2014
+
+LZ4 r66
+
+Copyright (c) 2013 Yann Collet. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+3. Neither the name of the <ORGANIZATION> nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+MURMURHASH 2
+The MIT License (MIT), Copyright (c) 2011, Austin Appleby 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+OPEN AL Soft
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+GNU LESSER GENERAL PUBLIC LICENSE
+
+Version 3, 29 June 2007
+
+Copyright (C) 2007 Free Software Foundation, Inc. http://fsf.org/
+
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+
+This version of the GNU Lesser General Public License incorporates the terms and conditions of version 3 of the GNU General Public License, supplemented by the additional permissions listed below.
+
+0. Additional Definitions.
+
+As used herein, "this License" refers to version 3 of the GNU Lesser General Public License, and the "GNU GPL" refers to version 3 of the GNU General Public License.
+
+"The Library" refers to a covered work governed by this License, other than an Application or a Combined Work as defined below.
+
+An "Application" is any work that makes use of an interface provided by the Library, but which is not otherwise based on the Library. Defining a subclass of a class defined by the Library is deemed a mode of using an interface provided by the Library.
+
+A "Combined Work" is a work produced by combining or linking an Application with the Library.  The particular version of the Library with which the Combined Work was made is also called the "Linked Version".
+
+The "Minimal Corresponding Source" for a Combined Work means the Corresponding Source for the Combined Work, excluding any source code for portions of the Combined Work that, considered in isolation, are based on the Application, and not on the Linked Version.
+
+The "Corresponding Application Code" for a Combined Work means the object code and/or source code for the Application, including any data and utility programs needed for reproducing the Combined Work from the Application, but excluding the System Libraries of the Combined Work.
+
+1. Exception to Section 3 of the GNU GPL.
+
+You may convey a covered work under sections 3 and 4 of this License without being bound by section 3 of the GNU GPL.
+
+2. Conveying Modified Versions.
+
+If you modify a copy of the Library, and, in your modifications, a facility refers to a function or data to be supplied by an Application that uses the facility (other than as an argument passed when the facility is invoked), then you may convey a copy of the modified version:
+
+a) under this License, provided that you make a good faith effort to ensure that, in the event an Application does not supply the function or data, the facility still operates, and performs whatever part of its purpose remains meaningful, or
+
+b) under the GNU GPL, with none of the additional permissions of this License applicable to that copy.
+
+3. Object Code Incorporating Material from Library Header Files.
+
+The object code form of an Application may incorporate material from a header file that is part of the Library.  You may convey such object code under terms of your choice, provided that, if the incorporated material is not limited to numerical parameters, data structure layouts and accessors, or small macros, inline functions and templates (ten or fewer lines in length), you do both of the following:
+
+a) Give prominent notice with each copy of the object code that the Library is used in it and that the Library and its use are covered by this License.
+
+b) Accompany the object code with a copy of the GNU GPL and this license document.
+
+4. Combined Works.
+
+You may convey a Combined Work under terms of your choice that, taken together, effectively do not restrict modification of the portions of the Library contained in the Combined Work and reverse engineering for debugging such modifications, if you also do each of the following:
+
+a) Give prominent notice with each copy of the Combined Work that the Library is used in it and that the Library and its use are covered by this License.
+
+b) Accompany the Combined Work with a copy of the GNU GPL and this license document.
+
+c) For a Combined Work that displays copyright notices during execution, include the copyright notice for the Library among these notices, as well as a reference directing the user to the copies of the GNU GPL and this license document.
+
+d) Do one of the following: 
+
+0) Convey the Minimal Corresponding Source under the terms of this License, and the Corresponding Application Code in a form suitable for, and under terms that permit, the user to recombine or relink the Application with a modified version of the Linked Version to produce a modified Combined Work, in the manner specified by section 6 of the GNU GPL for conveying Corresponding Source.
+
+1) Use a suitable shared library mechanism for linking with the Library.  A suitable mechanism is one that (a) uses at run time a copy of the Library already present on the user's computer system, and (b) will operate properly with a modified version of the Library that is interface-compatible with the Linked Version.
+
+e) Provide Installation Information, but only if you would otherwise be required to provide such information under section 6 of the GNU GPL, and only to the extent that such information is necessary to install and execute a modified version of the Combined Work produced by recombining or relinking the Application with a modified version of the Linked Version. (If you use option 4d0, the Installation Information must accompany the Minimal Corresponding Source and Corresponding Application Code. If you use option 4d1, you must provide the Installation Information in the manner specified by section 6 of the GNU GPL for conveying Corresponding Source.)
+
+5. Combined Libraries.
+
+You may place library facilities that are a work based on the Library side by side in a single library together with other library facilities that are not Applications and are not covered by this License, and convey such a combined library under terms of your choice, if you do both of the following:
+
+a) Accompany the combined library with a copy of the same work based  on the Library, uncombined with any other library facilities, conveyed under the terms of this License.
+
+b) Give prominent notice with the combined library that part of it is a work based on the Library, and explaining where to find the accompanying uncombined form of the same work.
+
+6. Revised Versions of the GNU Lesser General Public License.
+
+The Free Software Foundation may publish revised and/or new versions of the GNU Lesser General Public License from time to time. Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns.
+
+Each version is given a distinguishing version number. If the Library as you received it specifies that a certain numbered version of the GNU Lesser General Public License "or any later version" applies to it, you have the option of following the terms and conditions either of that published version or of any later version published by the Free Software Foundation. If the Library as you received it does not specify a version number of the GNU Lesser General Public License, you may choose any version of the GNU Lesser General Public License ever published by the Free Software Foundation.
+
+If the Library as you received it specifies that a proxy can decide whether future versions of the GNU Lesser General Public License shall apply, that proxy's public statement of acceptance of any version is permanent authorization for you to choose that version for the Library.
+
+OPEN SSL
+
+OpenSSL License
+  ---------------
+
+/* ====================================================================
+ * Copyright (c) 1998-2011 The OpenSSL Project.  All rights reserved.
+ *
+ * Redistribution and use in source and binary forms, with or without
+ * modification, are permitted provided that the following conditions
+ * are met:
+ *
+ * 1. Redistributions of source code must retain the above copyright
+ *    notice, this list of conditions and the following disclaimer.
+ *
+ * 2. Redistributions in binary form must reproduce the above copyright
+ *    notice, this list of conditions and the following disclaimer in
+ *    the documentation and/or other materials provided with the
+ *    distribution.
+ *
+ * 3. All advertising materials mentioning features or use of this
+ *    software must display the following acknowledgment:
+ *    "This product includes software developed by the OpenSSL Project
+ *    for use in the OpenSSL Toolkit. (http://www.openssl.org/)"
+ *
+ * 4. The names "OpenSSL Toolkit" and "OpenSSL Project" must not be used to
+ *    endorse or promote products derived from this software without
+ *    prior written permission. For written permission, please contact
+ *    openssl-core@openssl.org.
+ *
+ * 5. Products derived from this software may not be called "OpenSSL"
+ *    nor may "OpenSSL" appear in their names without prior written
+ *    permission of the OpenSSL Project.
+ *
+ * 6. Redistributions of any form whatsoever must retain the following
+ *    acknowledgment:
+ *    "This product includes software developed by the OpenSSL Project
+ *    for use in the OpenSSL Toolkit (http://www.openssl.org/)"
+ *
+ * THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ''AS IS'' AND ANY
+ * EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+ * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+ * PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE OpenSSL PROJECT OR
+ * ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+ * SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
+ * NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+ * LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+ * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+ * STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+ * OF THE POSSIBILITY OF SUCH DAMAGE.
+ * ====================================================================
+ *
+ * This product includes cryptographic software written by Eric Young
+ * (eay@cryptsoft.com).  This product includes software written by Tim
+ * Hudson (tjh@cryptsoft.com).
+ *
+ */
+
+ Original SSLeay License
+ -----------------------
+
+/* Copyright (C) 1995-1998 Eric Young (eay@cryptsoft.com)
+ * All rights reserved.
+ *
+ * This package is an SSL implementation written
+ * by Eric Young (eay@cryptsoft.com).
+ * The implementation was written so as to conform with Netscapes SSL.
+ *
+ * This library is free for commercial and non-commercial use as long as
+ * the following conditions are aheared to.  The following conditions
+ * apply to all code found in this distribution, be it the RC4, RSA,
+ * lhash, DES, etc., code; not just the SSL code.  The SSL documentation
+ * included with this distribution is covered by the same copyright terms
+ * except that the holder is Tim Hudson (tjh@cryptsoft.com).
+ *
+ * Copyright remains Eric Young's, and as such any Copyright notices in
+ * the code are not to be removed.
+ * If this package is used in a product, Eric Young should be given attribution
+ * as the author of the parts of the library used.
+ * This can be in the form of a textual message at program startup or
+ * in documentation (online or textual) provided with the package.
+ *
+ * Redistribution and use in source and binary forms, with or without
+ * modification, are permitted provided that the following conditions
+ * are met:
+ * 1. Redistributions of source code must retain the copyright
+ *    notice, this list of conditions and the following disclaimer.
+ * 2. Redistributions in binary form must reproduce the above copyright
+ *    notice, this list of conditions and the following disclaimer in the
+ *    documentation and/or other materials provided with the distribution.
+ * 3. All advertising materials mentioning features or use of this software
+ *    must display the following acknowledgement:
+ *    "This product includes cryptographic software written by
+ *     Eric Young (eay@cryptsoft.com)"
+ *    The word 'cryptographic' can be left out if the rouines from the library
+ *    being used are not cryptographic related :-).
+ * 4. If you include any Windows specific code (or a derivative thereof) from
+ *    the apps directory (application code) you must include an acknowledgement:
+ *    "This product includes software written by Tim Hudson (tjh@cryptsoft.com)"
+ *
+ * THIS SOFTWARE IS PROVIDED BY ERIC YOUNG ''AS IS'' AND
+ * ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+ * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ * ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE
+ * FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+ * DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+ * OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+ * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+ * LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+ * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+ * SUCH DAMAGE.
+ *
+ * The licence and distribution terms for any publically available version or
+ * derivative of this code cannot be changed.  i.e. this code cannot simply be
+ * copied and put under another distribution licence
+ * [including the GNU Public Licence.]
+
+
+SKIA
+
+Copyright (c) 2011 Google Inc. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+    * Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+    * Neither the name of Google Inc. nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR  CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+UTF8-CPP 2.3.4
+
+Copyright 2006 Nemanja Trifunovic
+
+Permission is hereby granted, free of charge, to any person or organization obtaining a copy of the software and accompanying documentation covered by this license (the "Software") to use, reproduce, display, distribute, execute, and transmit the Software, and to prepare derivative works of the Software, and to permit third-parties to whom the Software is furnished to do so, all subject to the following:
+
+The copyright notices in the Software and this entire statement, including the above license grant, this restriction and the following disclaimer, must be included in all copies of the Software, in whole or in part, and all derivative works of the Software, unless such copies or derivative works are solely in the form of machine-executable object code generated by a source language processor.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF  MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+SNAPPY 1.1.0
+
+Copyright 2011, Google Inc. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+    * Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+    * Neither the name of Google Inc. nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+ZLIB 1.2.8
+
+/* zlib.h -- interface of the 'zlib' general purpose compression library version 1.2.8, April 28th, 2013
+Copyright (C) 1995-2013 Jean-loup Gailly and Mark Adler
+This software is provided 'as-is', without any express or implied warranty.  In no event will the authors be held liable for any damages arising from the use of this software.
+Permission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:
+1. The origin of this software must not be misrepresented; you must not claim that you wrote the original software. If you use this software in a product, an acknowledgment in the product documentation would be appreciated but is not required.
+2. Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software.
+3. This notice may not be removed or altered from any source distribution.
+  Jean-loup Gailly        Mark Adler
+  jloup@gzip.org          madler@alumni.caltech.edu
+
+AMD Display Library
+
+END USER LICENSE AGREEMENT
+
+PLEASE READ THIS LICENSE CAREFULLY BEFORE USING THE SOFTWARE.  BY USING THE SOFTWARE, YOU ARE AGREEING TO BE BOUND BY THE TERMS OF THIS LICENSE. 
+1. License. The software accompanying this License (hereinafter "Software"), regardless of the media on which it is distributed, are licensed to you by Advanced Micro Devices, Inc. ("AMD") for use solely in conjunction with AMD products ("AMD Products").  You own the medium on which the Software is recorded, but AMD and AMD's Licensors (referred to collectively as "AMD") retain title to the Software and related documentation.  You may:
+a)  use the Software solely in conjunction with the AMD Products;
+b) you must reproduce on such copy AMD's copyright notice and any other proprietary legends that were on the original copy of the Software;
+c) transfer all your license rights in the Software provided you must also transfer a copy of this License, the AMD Products and the related documentation and provided the other party reads and agrees to accept the terms and conditions of this License.  Upon such transfer your license is then terminated.
+2.  Restrictions. The Software contains copyrighted and patented material, trade secrets and other proprietary material.  In order to protect them, and except as permitted by applicable legislation, you may not:
+a) decompile, reverse engineer, disassemble or otherwise reduce the Software to a human-perceivable form;
+b) modify, network, rent, lend, loan, distribute or create derivative works based upon the Software in whole or in part; or
+3.  Termination. This License is effective until terminated.  You may terminate this License at any time by destroying the Software, related documentation and all copies thereof.  This License will terminate immediately without notice from AMD if you fail to comply with any provision of this License.  Upon termination you must destroy the Software, related documentation and all copies thereof.
+4.  Government End Users. If you are acquiring the Software on behalf of any unit or agency of the United States Government, the following provisions apply.  The Government agrees the Software and documentation were developed at private expense and are provided with "RESTRICTED RIGHTS".  Use, duplication, or disclosure by the Government is subject to restrictions as set forth in DFARS 227.7202-1(a) and 227.7202-3(a) (1995), DFARS 252.227-7013(c)(1)(ii) (Oct 1988), FAR 12.212(a)(1995), FAR 52.227-19, (June 1987) or FAR 52.227-14(ALT III) (June 1987), as amended from time to time.  In the event that this License, or any part thereof, is deemed inconsistent with the minimum rights identified in the Restricted Rights provisions, the minimum rights shall prevail.
+5.  No Other License.  No rights or licenses are granted by AMD under this License, expressly or by implication, with respect to any proprietary information or patent, copyright, trade secret or other intellectual property right owned or controlled by AMD, except as expressly provided in this License.
+6.  Additional Licenses. DISTRIBUTION OR USE OF THE SOFTWARE WITH AN OPERATING SYSTEM MAY REQUIRE ADDITIONAL LICENSES FROM THE OPERATING SYSTEM VENDOR.  
+7.  Disclaimer of Warranty on Software. You expressly acknowledge and agree that use of the Software is at your sole risk.  The Software and related documentation are provided "AS IS" and without warranty of any kind and AMD EXPRESSLY DISCLAIMS ALL WARRANTIES, EXPRESS AND IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  AMD DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE SOFTWARE WILL MEET YOUR REQUIREMENTS, OR THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS IN THE SOFTWARE WILL BE CORRECTED.  THE ENTIRE RISK AS TO THE RESULTS AND PERFORMANCE OF THE SOFTWARE IS ASSUMED BY YOU.  FURTHERMORE, AMD DOES NOT WARRANT OR MAKE ANY REPRESENTATIONS REGARDING THE USE OR THE RESULTS OF THE USE OF THE SOFTWARE OR RELATED DOCUMENTATION IN TERMS OF THEIR CORRECTNESS, ACCURACY, RELIABILITY, CURRENTNESS, OR OTHERWISE. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY AMD OR AMD'S AUTHORIZED REPRESENTATIVE SHALL CREATE A WARRANTY OR IN ANY WAY INCREASE THE SCOPE OF THIS WARRANTY.  SHOULD THE SOFTWARE PROVE DEFECTIVE, YOU (AND NOT AMD OR AMD'S AUTHORIZED REPRESENTATIVE) ASSUME THE ENTIRE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.  THE SOFTWARE IS NOT INTENDED FOR USE IN MEDICAL, LIFE SAVING OR LIFE SUSTAINING APPLICATIONS.  SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSION MAY NOT APPLY TO YOU.  
+8.  Limitation of Liability. UNDER NO CIRCUMSTANCES INCLUDING NEGLIGENCE, SHALL AMD, OR ITS DIRECTORS, OFFICERS, EMPLOYEES OR AGENTS, BE LIABLE TO YOU FOR ANY INCIDENTAL, INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES (INCLUDING DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, AND THE LIKE) ARISING OUT OF THE USE, MISUSE OR INABILITY TO USE THE SOFTWARE OR RELATED DOCUMENTATION, BREACH OR DEFAULT, INCLUDING THOSE ARISING FROM INFRINGEMENT OR ALLEGED INFRINGEMENT OF ANY PATENT, TRADEMARK, COPYRIGHT OR OTHER INTELLECTUAL PROPERTY RIGHT, BY AMD, EVEN IF AMD OR AMD'S AUTHORIZED REPRESENTATIVE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.  AMD will not be liable for 1)loss of, or damage to, your records or data or 2) any damages claimed by you based on any third party claim.   In no event shall AMD's total liability to you for all damages, losses, and causes of action (whether in contract, tort (including negligence) or otherwise) exceed the amount paid by you for the Software.
+9. Export Restrictions. Recipient shall adhere to all U.S. and other applicable export laws, including but not limited to the U.S. Export Administration Regulations (EAR), currently found at 15 C.F.R. Sections 730 through 744. Further, pursuant to 15 C.F.R Section 740.6, Recipient hereby certifies that, except pursuant to a license granted by the United States Department of Commerce Bureau of Industry and Security or as otherwise permitted pursuant to a License Exception under the U.S. Export Administration Regulations ("EAR"), Recipient will not (1) export, re-export or release to a national of a country in Country Groups D:1 or E:2 any restricted technology, software, or source code it receives from AMD, or (2) export to Country Groups D:1 or E:2 the direct product of such technology or software, if such foreign produced direct product is subject to national security controls as identified on the Commerce Control List (currently found in Supplement 1 to Part 774 of EAR).  For the most current Country Group listings, or for additional information about the EAR or Recipient's obligations under those regulations, please refer to the U.S. Bureau of Industry and Security's website at http://www.bis.doc.gov/.  These export requirements shall survive any expiration or termination of this Agreement.
+10.  Controlling Law and Severability. This Agreement will be governed by and construed under the laws of the State of California without reference to its conflicts of law principles. The rights and obligations under this Agreement shall not be governed by the United Nations Convention on Contracts or the International Sale of Goods, the application of which is expressly excluded.  Each party hereto submits to the jurisdiction of the state and federal courts of Santa Clara County and the Northern District of California for the purpose of all legal proceedings arising out of or relating to this Agreement or the subject matter hereof.  Each party waives any objection which it may have to contest such forum. 
+11.  Complete Agreement.  This License constitutes the entire agreement between the parties with respect to the use of the Software and the related documentation, and supersedes all prior or contemporaneous understandings or agreements, written or oral, regarding such subject matter.  No amendment to or modification of this License will be binding unless in writing and signed by a duly authorized representative of AMD.
+
+
+16. MISCELLANEOUS
+
+This Agreement represents the complete agreement between you and SEGA concerning the Product and supersedes all prior agreements and representations, warranties or understandings between you and SEGA (whether negligently or innocently made but excluding those made fraudulently), regarding the same subject matter.  SEGA reserves the right to amend or modify this Agreement at any time, in any manner, without any liability to SEGA and at SEGA's sole discretion.  
+
+If any part of the Agreement is determined to be invalid or unenforceable pursuant to applicable law including, but not limited to, the warranty, disclaimers and liability limitations set forth above, then the invalid or unenforceable provision will be deemed superseded by a valid, enforceable provision that most closely matches the intent of the original provision and the remainder of the Agreement shall continue in effect.  Any failure by us to enforce or exercise any provision of the Agreement or related rights shall not constitute a waiver of that right or provision.
+
+SEGA may assign this Agreement, in whole or in part, at any time.  Notwithstanding, you may not assign, transfer or sublicense any or all of your rights or obligations under the Agreement without SEGA's express prior written consent.
+SEGA's performance of the Agreement is subject to existing laws and legal process, and nothing contained in the Agreement is in derogation of SEGA's right to comply with governmental, court, and law enforcement requests or requirements relating to your use of the Product or information provided to or gathered by SEGA with respect to such use.  In addition to any excuse provided by applicable law, we shall be excused from liability for non-delivery or delay in delivery of the Product arising from any event beyond our reasonable control, whether or not foreseeable by either party, including but not limited to, labor disturbance, war, terrorism, fire, denial of service attack, internet outages, accident, adverse weather, inability to secure transportation, governmental act or regulation, and other causes or events beyond our reasonable control, whether or not similar to those which are enumerated above. 
+Nothing in this Agreement gives or claims to give to any third party any benefit or right to enforce any term of this Agreement, and the provisions of the Contracts (Rights of Third Parties) Act 1999 (as amended or modified from time to time) are expressly excluded.
+
+The parties agree that all correspondence relating to this Agreement shall be written in the English language.
+
+This Agreement shall be construed under laws of England Wales, and you consent to the exclusive jurisdiction of the English Courts.
+You may contact SEGA at the following address:
+SEGA Europe Limited
+Customer Service Department
+27 Great West Road
+Brentford
+Middlesex
+TW8 9BW
+		Email: customersupportuk@sega.co.uk
+ 
+UNLESS OTHERWISE NOTED, THE EXAMPLE COMPANIES, ORGANISATIONS, PRODUCTS, PEOPLE AND EVENTS DEPICTED IN THE PRODUCT ARE FICTITIOUS AND NO ASSOCIATION WITH ANY REAL COMPANY, ORGANISATION, PRODUCT, PERSON OR EVENT IS INTENDED OR SHOULD BE INFERRED.
+
+I HEREBY ACKNOWLEDGE THAT I HAVE READ AND UNDERSTAND THE FOREGOING END USER LICENSE AGREEMENT AND AGREE THAT MY USE OF THE PRODUCTS IS AN ACKNOWLEDGMENT OF MY AGREEMENT TO BE BOUND BY THE END USER LICENSE AGREEMENT. 
+ 
+
+SCHEDULE 1
+Twitch Plug-in: Terms and Conditions
+
+
+IMPORTANT - READ CAREFULLY: The software plug-in ("Twitch Plug-in") in Football Manager™ 2016 (the "Game") or any part of the Game software which allows you to broadcast audio-visual content from the Game ("Game Footage") to Twitch TV  - http://www.twitch.tv/ ("Twitch TV") is governed by these terms and conditions. If you do not agree to the terms of this Agreement, you are not permitted to install, open, copy or otherwise use the Twitch Plug-in. Your continued use of the Twitch Plug-in constitutes your acceptance of these terms and conditions. If you are not eighteen (18) years of age, have your parents review this Agreement.
+
+These terms and conditions are hereby incorporated into the End-User-Licence Agreement ("EULA") for the Game, and you hereby acknowledge and accept that the Twitch Plug-in, and Game Footage which is broadcasted via the Twitch Plug-in shall constitute Game Software, Editors, New Materials or Additional Content (as applicable and as defined in the EULA) and hereby agree to be bound by the EULA and all other operating rules, policies and procedures in respect of the same.
+
+In order to access and use the Twitch Plug-in to broadcast Game Footage, you will need to register for an account with Twitch TV. Please visit their website for more details: http://www.twitch.tv/ Please note that Twitch TV is a third party website and this link is provided for your information only. We have no control over the contents of the Twitch site or resources, and accept no responsibility for them or for any loss or damage that may arise from your use of them. You also understand and agree that you register for an account with Twitch TV at your own discretion and risk and that you will be solely responsible for any obligations, damages or losses which arise from such registration, access and use of their service.
+
+1. Grant of Licence to Broadcast Game Footage
+Subject to your compliance with the terms and conditions of the Agreement, Sega Publishing Europe Limited of 27 Great West Road, Brentford, Middlesex, TW8 9BW, England on behalf of Sports Interactive Limited of 27 Great West Road, Brentford, Middlesex, TW8 9BW, England and SEGA Games Co., Ltd. of 1-2-12, Haneda, Ohta-ku, Tokyo, 144-8531 Japan and its affiliated companies (collectively, "SEGA" or "We") hereby grants you a non-exclusive, non-transferable, limited, fully revocable right and license to install, access and use the Twitch Plug-in in order to broadcast Game Footage on Twitch TV ("Broadcasted Content"), and to grant a licence of the Broadcasted Content to Twitch TV (and sub-licensees of Twitch TV) as required by any terms of service between you and Twitch TV.
+
+Such license is subject to these terms and conditions, the EULA (and any other terms and conditions which you are required to agree to upon registration with Twitch TV for which SEGA has no responsibility) and does not include: (a) any resale of the Game Footage or Broadcasted Content; (b) the distribution, public performance or public display of any Game Footage and Broadcasted Content other than for the purposes specifically authorised herein; (c) modifying or otherwise making any derivative uses of the Game Footage or Broadcasted Content, or any portion thereof.
+You acknowledge and agree that all right, title and interest in and to the Twitch Plug-in, Game Footage and Broadcasted Content (excluding any audio,  visual or audio-visual content which is created by you and which is broadcasted simultaneously and/or synchronised with the Game Footage), including without limitation copyrights, trademarks and intellectual properties therein and/or related thereto and all copies thereof (including, but not limited to, any patches, updates, copies, derivative works, titles, computer code, themes, objects, characters, character names, stories, dialogs, catch phrases, locations, concepts, artwork, images, animation, sounds, musical compositions, audio-visual effects, text, methods of operation, moral rights, "applets" incorporated), in each case in any part of the world and whether or not registered or registrable and to the fullest extent thereof and for the full period thereof and all extensions and renewals thereof, are for the benefit of SEGA and will remain our property or that of our group companies. Broadcasted Content shall belong to, vest in and be the exclusive property of SEGA and/or its licensors on creation. You waive and agree never to assert against SEGA or its affiliates, distributors or licensors any moral rights or similar rights, however designated, that you may have in or to any Broadcasted Content.
+2. Unauthorised use
+Any use of the Game Footage or Broadcasted Content other than for the purposes specifically authorised herein, without the prior written permission of SEGA, is strictly prohibited and will terminate the license granted herein.  You shall on no account and under any circumstances do anything that may result in the reverse-engineering copying, distribution, modification, of the Game, Twitch Plug-in, Game Footage or Broadcasted Content. Such unauthorized use may also violate applicable laws, including without limitation copyright and trademark laws and applicable communications regulations and statutes. Unless explicitly stated herein, nothing in these terms shall be construed as conferring any license to intellectual property rights, whether by estoppel, implication or otherwise.
+ 
+You warrant and represent that you shall not use the Twitch Plug-in, Game Footage or Broadcasted Content (or any of them) in any manner (including broadcasting simultaneously and/or synchronising audio, visual or audio-visual content with the Game Footage which has been created by you) that can, or could reasonably be construed as infringing third party rights or bringing SEGA's name into disrepute or being prejudicial to us. If any content other than the Game Footage is published without our permission in any media (other than on Twitch TV for which permission is hereby granted) or not in accordance with the terms of this Agreement, this licence shall end immediately and all rights to use the Twitch Plug-in, Game Footage and Broadcasted Content will be withdrawn. We reserve our right on demand, as in our discretion we think fit, to direct you to remove the Twitch Plug-in, any Game Footage and/or Broadcasted Content or links to the same. We also reserve the right in our sole discretion to terminate, suspend or modify the Twitch Plug-in from the Game at any time and for any reason (including where the Twitch Plug-in or Twitch TV services are technically corrupted).
+
+If you wish to use any Game Footage and/or Broadcasted Content for commercial purposes (e.g. by monetising the videos on You Tube), we request that you do so in accordance with Football Manager community rules. Please visit our website for further information on how to obtain such permission: http://community.sigames.com/showthread.php/397942
+
+3. Disclaimer
+
+By downloading and using the Twitch Plug-in to publish Broadcasted Content on Twitch TV, you hereby agree to: (a) comply with and be bound by any terms and conditions, rules or policies of Twitch TV (for which SEGA is not responsible); and (b) release SEGA, its indirect and direct parent companies and their affiliates and representatives, partners, subsidiaries, officers, directors, agents, employees, representatives, shareholders harmless from any and all liability, loss, damages, claims, liabilities and actions of any kind with respect to and in any way arising from (i) any audio,  visual  and audio-visual content which has been created by you and which is broadcasted simultaneously and/or synchronised with the Game Footage using the Twitch Plug-in, (ii) your access and use of Twitch TV and any other content that is published on the Twitch TV website (which is beyond our control); (iii) any injury or damage to your or third person's property related to or resulting from access and use of Twitch TV; (vi) damage to your computer system (including, without limitation, any server failure or lost, delayed or corrupted data or other malfunction) due, either directly or indirectly, to your participation access and use of Twitch Plug-in, Twitch TV or the downloading of information in connection with Twitch TV; (v) any infringement of third party rights, publicity or privacy rights and/or defamation, and (vi) any information which you choose to publish by any means. NOTHING IN THESE TERMS SHALL EXCLUDE OR LIMIT SEGA'S LIABILITY FOR FRAUD, PERSONAL INJURY OR DEATH CAUSED BY ITS NEGLIGENCE.
+
+4. Data Collection
+SEGA collects non-personally identifiable personal information from you when you use the Twitch Plug-in. This information will be collected in accordance with data protection laws and  used solely for the purposes of providing you with the service. By using the Twitch Plug-in, you agree to all of the terms and conditions of SEGA's Privacy Policy. For information about how personal information may be used, see SEGA's Privacy Policy, which is available at http://www.sega.co.uk/legal/privacy.php  Please note that Twitch TV may collect personally identifiable information for which Sega has no responsibility. Please see the Twitch Service terms which you agree to upon registration for more details. 
+5. Miscellaneous
+
+Please inquire about anything you do not understand.  SEGA requests that you contact one of the customer service centres advertised in the information accompanying the Game. Please note that there may be a charge for the telephone call to the customer service centre. 
+
+
+SEGA reserves the right to amend or modify these terms and conditions at any time, in any manner, without any liability to SEGA and at SEGA's sole discretion.  If you have any questions about this agreement, you can contact SEGA at the following address:
+Sega Publishing Europe Limited, Customer Service Department, 27 Great West Road, Brentford, Middlesex TW8 9BW or email: customersupportuk@sega.co.uk
